@@ -1,6 +1,0 @@
--> BOTÕES NÃO FUNCIONAM COM CONTROLE REMOTO
-
-
-// Não funcional
-    -> Entrada com arquivos (txt, excel)
-    -> Gráficos que mostram as medidas
