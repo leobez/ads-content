@@ -1,2 +1,3 @@
 # site-medidas-dispersao
- Um projeto da faculdade, na matéria de estatística aplicada sobre medidas de dispersão.
+
+Este é um projeto feito para a FATEC de americana, na matéria de estatística aplicada, sobre o tema de medidas de dispersão.
