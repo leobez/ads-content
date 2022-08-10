@@ -2,7 +2,7 @@
 
 Um projeto da faculdade, realizado no segundo semestre para a matéria: Linguagem de programação ll.
 
-O projeto se trata de um site criado utilizando do framework .NET em C#, através da ferramenta Visual Studio 2022.
+O projeto se trata de um site criado utilizando do framework ASP.NET em C#, através da ferramenta Visual Studio 2022.
 
 Este site foi criado com o propósito principal de ensino e aprimoramento das habilidades envolvendo:
  - front-end: html, css e javaScript. 
