@@ -6,8 +6,8 @@
 */
 
 :root {
-    --alturaHeader: 150px;
-    --alturaFooter: 130px;
+    --alturaHeader: 135px;
+    --alturaFooter: 110px;
     --alturaMain: calc(100vh - var(--alturaFooter) - var(--alturaHeader));
 
     --cor01: #0875D8;
