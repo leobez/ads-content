@@ -1,6 +1,6 @@
 # Site sobre o curso de Analise e desenvolvimento de sistemas da FATEC de Americana
 
-Um projeto da faculdade, realizado no segundo semestre para a matéria: Linguagem de programação ll.
+Um projeto da faculdade, realizado no segundo semestre para a matéria linguagem de programação ll.
 
 O projeto se trata de um site criado utilizando do framework ASP.NET em C#, através da ferramenta Visual Studio 2022.
 
