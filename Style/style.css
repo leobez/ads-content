@@ -6,15 +6,11 @@
 */
 
 :root {
-    --alturaHeader: 135px;
+    --alturaHeader: 110px;
     --alturaFooter: 110px;
     --alturaMain: calc(100vh - var(--alturaFooter) - var(--alturaHeader));
 
     --cor01: #0875D8;
-    --cor02: #0875D8;
-    --cor03: #0875D8;
-    --cor04: #0875D8;
-    --cor05: #0875D8;
 }
 
 * {
@@ -31,7 +27,6 @@
     min-width: 300px;
 }
 
-
 /********************************** 
             CABEÇALHO 
 **********************************/
@@ -46,32 +41,32 @@ header {
     gap: 5px;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 20px;
+    padding: 0px 20px;
 }
 
 header div {
     flex-basis: 33%;
 }
 
-header .header-left-side {
+header .header-left {
     display: flex;
     justify-content: left;
     flex-direction: column;
 }
 
-header .header-middle-side {
+header .header-middle {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-header .header-right-side {
+header .header-right {
     display: flex;
     align-items: center;
     justify-content: right;
 }
 
-header .header-right-side p {
+header .header-right p {
     text-align: right;
 }
 
@@ -82,11 +77,11 @@ header .header-right-side p {
 
 main {
     min-height: var(--alturaMain);
-    max-height: fit-content;
     display: flex;
     /*box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.475);*/
     border-left: 2px solid black;
     border-right: 2px solid black;
+	border-bottom: 2px solid black;
     z-index: 1;
 }
 
@@ -337,8 +332,6 @@ main > section {
 footer {
     height: var(--alturaFooter);
     width: 100%;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
 }
 
 .footer-area {
