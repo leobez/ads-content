@@ -193,6 +193,10 @@ main > section {
     border-color: red;
 }
 
+p#aviso {
+	margin: 0;
+}
+
 /* Saída de dados */
 .content-resultado {
     height: 690px;
