@@ -12,5 +12,5 @@ Este site foi criado com o propósito principal de ensino e aprimoramento das ha
 
 Site atualmente sendo hospedado com os serviços somee: https://somee.com/
 
-Para acessar: (link)[leonardobez.somee.com]
+Para acessar: [link](leonardobez.somee.com)
 
