@@ -11,6 +11,7 @@ Este site possui o objetivo de calcular as seguintes medidas de dispersão:
   - Coeficiente de variação
  
 
- Para ver o site pode acessar [aqui](https://leobez.github.io/site-medidas-dispersao/)
+ Atualmente sendo hospedado através do github pages: [aqui](https://leobez.github.io/site-medidas-dispersao/)
  
+
  
