@@ -10,4 +10,7 @@ Este site foi criado com o propósito principal de ensino e aprimoramento das ha
 
 **OBS: A área de "fale conosco" do site não esta em funcionamento por conta da falta de um email que possa fazer o envio da mensagem.** 
 
-Site atualmente não esta sendo hosteado
+Site atualmente sendo hospedado com os serviços somee: https://somee.com/
+
+Para acessar: (link)[leonardobez.somee.com]
+
