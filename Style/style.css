@@ -38,36 +38,13 @@ header {
     background-color: black;
     color: white;
     display: flex;
-    gap: 5px;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 0px 20px;
 }
 
-header div {
-    flex-basis: 33%;
-}
-
-header .header-left {
-    display: flex;
-    justify-content: left;
-    flex-direction: column;
-}
-
-header .header-middle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-header .header-right {
-    display: flex;
-    align-items: center;
-    justify-content: right;
-}
-
-header .header-right p {
-    text-align: right;
+header > p {
+	text-align: center;
 }
 
 
@@ -321,7 +298,6 @@ p#aviso {
 
 /*PONTO DE QUEBRA BOTÃO "como usar": 460px*/
 @media screen and (max-width: 470px) {
-    
     .content-calculo-top > button {
         height: 78px;
         width: 121px;
@@ -344,82 +320,11 @@ footer {
     border-left: 2px solid black;
     border-right: 2px solid black;
     display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0px 20px;
 }
 
-.footer-area > .left-side { 
-    flex-basis: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: right;
-    padding-left: 20px;
-}
-
-.footer-area > .left-side p { 
-    font-weight: 600;
-}
-
-.footer-area > .right-side { 
-    flex-basis: 80%;
-    padding: 10px 10px;
-    display: flex;
-    gap: 5px;
-    align-items: center;
-    justify-content: space-evenly;
-}
-
-.footer-area > .right-side p { 
-    font-size: 18px;
-    text-align: center;
-}
-
-.footer-area > .bottom-side { 
-    display: none;
-    flex-basis: 20%;
-    flex-direction: column;
-    gap: 15px;
-    font-weight: 600;
-}
-
-.footer-area > .bottom-side > p { 
-    text-align: center;
-    font-size: 18px;
-}
-
-/*PONTO DE QUEBRA RODAPÉ e CABEÇALHO: 990px*/
-@media screen and (max-width: 990px) {
-
-    /*CABEÇALHO*/
-    header .header-left-side {
-        display: none;
-    }
-    header .header-right-side {
-        display: none;
-    }
-    header .header-middle-side {
-        justify-content: center;
-        flex-basis: 100%;
-    } 
-    header .header-middle-side > p {
-        text-align: center;
-    } 
-
-    /*RODAPÉ*/
-    :root {
-        --alturaFooter: fit-content;
-    }
-    .footer-area {
-        flex-direction: column;
-        padding: 20px 0px;
-    }
-    .footer-area .left-side {
-        justify-content: center;
-        padding: 0;
-    }
-    .footer-area .right-side {
-        flex-direction: column;
-        gap: 15px;
-    }
-    .footer-area > .bottom-side { 
-        display: flex;
-    }
+.footer-area > p {
+	text-align: center;
 }
