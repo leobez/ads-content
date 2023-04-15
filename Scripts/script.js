@@ -59,10 +59,8 @@ function gerarResultado() {
     try {
         let ListaNumerosString = construirNumeros(Dados, Tamanho) 
 
-        console.log("LISTA DE NUMEROS EM STRING: "+ ListaNumerosString)
-
         if (ListaNumerosString === 1) {
-            AVISO.innerText = "DIGITA DIREITO ISSO AE"
+            AVISO.innerText = "APENAS UM NUMERO DETECTADO"
             return AREA_CALCULO.append(AVISO);
         }
 
@@ -71,18 +69,16 @@ function gerarResultado() {
 
         for (let x of ListaNumeros) {
             if (isNaN(x)) {
-                AVISO.innerText = "DIGITA DIREITO ISSO AE"
+                AVISO.innerText = "VALORES INVALIDOS"
                 return AREA_CALCULO.append(AVISO);
             }
         }
-
-        console.log("LISTA DE NUMEROS EM NUMBER: " + ListaNumeros)
 
         // Organizar a lista de números em ordem crescente
         ListaNumeros.sort(function(a, b) { return a > b ? 1 : -1});
 
     } catch (error) {
-        AVISO.innerText = `INVALIDEZ DETECTADA`
+        AVISO.innerText = "VALORES INVALIDOS"
         return AREA_CALCULO.append(AVISO);
     }
 

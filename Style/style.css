@@ -160,6 +160,10 @@ main > section {
     cursor: pointer;
 }
 
+p#aviso {
+	text-align: center;
+}
+
 .calcular:hover {
     color: rgb(0, 255, 0);
     border-color: rgb(0, 255, 0);
