@@ -13,5 +13,5 @@ Para usar você:
   - Montar a função objetivo, informando o valor de cada X.
   - Informar quantas restrições esta função tem.
   - Montar cada uma das restrições, informando seus valores de X.
-  - Escolher se você deseja ver o valor final direto (valor ótimo), ou ver cada um dos valores encontrados nas interações.
+  - Escolher se você deseja ver o valor final direto (valor ótimo), ou ver cada um dos valores encontrados nas iterações.
 
