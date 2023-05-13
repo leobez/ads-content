@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+:root {
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+
+}
+
+/* HEADER */
+header {
+
+
+}
+
+/* MAIN */
+main {
+}
+
+div.div-tabela {
+	display: grid;
+	min-height: fit-content;
+	max-height: 1000px;
+	min-width: 300px;
+	max-width: 100%;
+	gap: 5px;
+}
+
+div.div-tabela > div {
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+	padding: 5px;
+}
+
+div.div-tabela > div > input {
+	width: 20px;
+}
+	
+
+/* FOOTER */
+footer{
+
+
+}
