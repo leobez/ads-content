@@ -62,6 +62,9 @@ function carregarFormObjetivo() {
 		"number",
 		"");
 
+	// TO DELETE WHEN FINISHED
+	input_objetivo.value = 2;
+
 	div_form_container_objetivo.append(div_container_objetivo_titulo, label_objetivo, input_objetivo);
 
 	return div_form_container_objetivo;
@@ -109,6 +112,10 @@ function carregarFormRestricoes() {
 		"number",
 		"");
 
+		
+	// TO DELETE WHEN FINISHED
+	input_restricoes.value = 3;
+
 	div_form_container_restricoes.append(div_container_restricoes_titulo, label_restricoes, input_restricoes);
 
 	return div_form_container_restricoes;
@@ -131,8 +138,8 @@ function carregarBotao() {
 
 	button_submit_form_info.addEventListener("click", () => {
 		// Checar se essa a div-container-tabela ja existe e deleta-la caso ja exista.
-		const div_container_tabela = document.querySelector("div.div-container-tabela");
-		if (div_container_tabela !== null) div_form_container.removeChild(div_container_tabela);
+		const div_subcontainer_tabela = document.querySelector("div.div-container-tabela");
+		if (div_subcontainer_tabela !== null) div_form_container.removeChild(div_subcontainer_tabela);
 	
 		const num_objetivo 		= Number(document.querySelector("input.input-objetivo").value);
 		const num_restricoes 	= Number(document.querySelector("input.input-restricoes").value);
@@ -144,22 +151,33 @@ function carregarBotao() {
 		if (num_objetivo > 10 || num_restricoes > 10) return window.alert("Input inválido");
 		if (num_objetivo <= 0 || num_restricoes <= 0) return window.alert("Input inválido");
 
-		return div_form_container.append(carregarTabelas(num_objetivo, num_restricoes));
+		return div_form_container.append(carregarTabelaInput(num_objetivo, num_restricoes));
 	})
 
 	return button_submit_form_info;
 }
 
-function carregarTabelas(num_objetivo, num_restricoes) {
+function carregarTabelaInput(num_objetivo, num_restricoes) {
 
 	var div_container_tabela;
+	var div_subcontainer_tabela;
 	var div_tabela;
 	var button_calcular_tabela;
 
 	div_container_tabela = aplicarEstilo(
 		"div",
 		"div-container-tabela",
+		"div-container-tabela",
 		"",
+		"",
+		"",
+		"",
+	);
+
+	div_subcontainer_tabela = aplicarEstilo(
+		"div",
+		"div-subcontainer-tabela",
+		"div-subcontainer-tabela",
 		"",
 		"",
 		"",
@@ -169,7 +187,17 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 	div_tabela = aplicarEstilo(
 		"div",
 		"div-tabela",
+		"div-tabela",
 		"",
+		"",
+		"",
+		"",
+	);
+
+	div_info_tabela = aplicarEstilo (
+		"div",
+		"div-info-tabela",
+		"div-info-tabela",
 		"",
 		"",
 		"",
@@ -180,6 +208,32 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 	div_tabela.style.gridTemplateRows 		= `repeat(${num_restricoes+1}, 50px)`
 
 	for (var a=0; a<(num_restricoes+1); a++) {
+
+		var temp_name;
+
+		if (a == 0) {
+			temp_name = aplicarEstilo (
+				"div",
+				`func-name-{a}`,
+				"",
+				"",
+				"",
+				"",
+				"Função Objetivo ->"
+			);
+		} else {
+			temp_name = aplicarEstilo (
+				"div",
+				`func-name-{a}`,
+				"",
+				"",
+				"",
+				"",
+				`Restricao ${a} ->`
+			);
+		}
+
+		div_info_tabela.append(temp_name);
 
 		for (var b=0; b<(num_objetivo+1); b++) {
 
@@ -198,6 +252,7 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 			temp.style.border = "2px solid black";
 			
 			let temp_fixed_X;
+
 			if (b != num_objetivo) {
 				temp_fixed_X = aplicarEstilo(
 					"p",
@@ -231,7 +286,15 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 			);
 
 			temp_input.style.flexBasis="80%";
-			temp.append(temp_fixed_X, temp_input);
+
+			// TO DELETE WHEN FINISHED
+			temp_input.value = 3;
+			
+			if (a == 0 && b == num_restricoes-1) {
+				temp.append();
+			} else {
+				temp.append(temp_fixed_X, temp_input);
+			}
 			div_tabela.append(temp);
 		}
 	}
@@ -255,6 +318,8 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 			var linha = [];
 			for (var b=0; b<(num_objetivo+1); b++) {
 
+				if (a == 0 && b == num_objetivo) break;
+
 				const input_temp = document.querySelector(`input.input-${a}-${b}`);
 				if (input_temp.value === "") return window.alert("Input inválido"); 
 
@@ -268,11 +333,88 @@ function carregarTabelas(num_objetivo, num_restricoes) {
 		return calcularSimplex(valores_tabela);
 	})
 
-	div_container_tabela.append(div_tabela, button_calcular_tabela);
+	div_subcontainer_tabela.append(div_info_tabela, div_tabela);
+	div_container_tabela.append(div_subcontainer_tabela, button_calcular_tabela)
 
 	return div_container_tabela;
 }
 
 function calcularSimplex(valores_tabela) {
 	console.log(valores_tabela);
+	const div_form_container = document.querySelector("div.form-container");
+
+	div_form_container.append(carregarTabelaOutput(valores_tabela));
+}
+
+function carregarTabelaOutput(valores_tabela) {
+
+	const num_variaveis = valores_tabela[0].length;
+	const num_restricoes = valores_tabela.length;
+
+	const qtd_linhas = num_restricoes;
+	const qtd_colunas = num_variaveis + num_restricoes + 1;
+
+	console.log(num_variaveis, num_restricoes, qtd_linhas, qtd_colunas);
+
+	var tabela = [];
+	var subtabela;
+	for (var a=0; a<qtd_linhas; a++) {
+		subtabela = [];
+		for (var b=0; b<qtd_colunas; b++) {
+			subtabela.push(0);
+		}
+		tabela.push(subtabela);
+	}
+
+	// Montar tabela inicial
+	for (var a=0; a<qtd_linhas; a++) {
+		for (var b=0; b<qtd_colunas; b++) {
+			// Função objetivo
+			if (a==0) {
+
+
+			// Restrições
+			} else {
+
+
+			}
+		
+		}
+	}
+
+	console.log(tabela)
+
+	const tabelaOutput = aplicarEstilo(
+		"div",
+		"tabela-output",
+		"",
+		"",
+		"",
+		"",
+		"",
+	);
+
+	// Exibindo tabela INICIAL
+	console.log(a, b)
+
+	tabelaOutput.style.gridTemplateColumns 		= `repeat(${qtd_colunas}, 50px)`
+	tabelaOutput.style.gridTemplateRows 		= `repeat(${qtd_linhas}, 50px)`
+
+	for (var a=0; a<qtd_linhas; a++) {
+		for (var b=0; b<qtd_colunas; b++) {
+			var temp = aplicarEstilo (
+				"div",
+				`temp-output-tabela-${a}-${b}`,
+				"",
+				"",
+				"",
+				"",
+				`${tabela[a][b]}`,
+			);
+			tabelaOutput.append(temp);
+		}
+	}
+
+	return tabelaOutput;
+
 }
