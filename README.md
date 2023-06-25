@@ -4,7 +4,7 @@
  - [x] Biblioteca
  - [ ] Cartesiano  : Terminar ainda
  - [ ] CorridaKart : Adicionar interfaces
- - [ ] Escola
+ - [x] Escola
  - [ ] Estacionamento
  - [ ] ListaPecas
  - [ ] Tecelagem
