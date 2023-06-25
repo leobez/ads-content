@@ -1,0 +1,1 @@
+https://pooperrotti.fandom.com/pt-br/wiki/Exerc%C3%ADcios_e_exemplos
