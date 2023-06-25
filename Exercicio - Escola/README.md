@@ -1,6 +1,6 @@
-# Prova de Programação Orientada a Objeto
+# Programação Orientada a Objeto
 
-# Prof. Francesco Artur Perrotti – Fatec Americana
+Prof. Francesco Artur Perrotti – Fatec Americana
 
 Além dos alunos regulares, a faculdade resolveu aceitar também alunos assistentes. Estes alunos podem assistir às aulas, mas não fazem provas e nem recebem diploma. Entretanto, se freqüentarem pelo menos 75% das aulas e ao final do semestre entregarem um resumo da matéria ministrada na disciplina, recebem um certificado de participação. Os alunos regulares, para que sejam aprovados é exigido que freqüentem pelo menos 75% das aulas e façam duas provas, obtendo média igual ou maior que 6,0. Considere que as duas provas têm o mesmo peso na média. Para os alunos regulares, em caso de doença ou algum impedimento previsto no regimento escolar, as faltas podem ser abonadas, desde que o aluno entregue um atestado comprovando o ocorrido. Entretanto, o numero de faltas abonadas durante o semestre não pode ser maior do que 5. 
 O seu trabalho é fazer um sistema que controle as notas e freqüência dos alunos regulares e assistentes. Os alunos são cadastrados no sistema no início de semestre e no decorrer do curso as faltas e notas são atualizadas. Para todos os alunos é preciso manter o registro do nome e quantidade de faltas. Para os alunos regulares é armazenado também o RA e as notas das duas provas. Os alunos assistentes não têm RA, mas é necessário armazenar seu RG. Para os assistentes também é preciso saber se entregaram ou não o resumo final da disciplina.
