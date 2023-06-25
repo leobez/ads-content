@@ -1,6 +1,6 @@
-# Prova de Programação Orientada a Objeto - Noturno
+# Programação Orientada a Objeto
 
-# Prof. Francesco Artur Perrotti – Fatec Americana
+Prof. Francesco Artur Perrotti – Fatec Americana
 
 O circuito regional de corrida de kart está aceitando inscrições das equipes interessadas. Como nesta temporada há muitos participantes, a organização da corrida precisa agora de um controle mais eficiente do que nos outros anos e por isso precisa de um sistema para melhorar o controle das equipes. Cada etapa da competição é formada por várias baterias com 10 pilotos em cada uma. Os melhores colocados em cada bateria participam das etapas seguintes. Faça um sistema para controlar a primeira etapa da competição. Crie duas classes, uma para as baterias e outra para as equipes participantes. A classe das baterias precisa armazenar os seguintes atributos: Categoria (string), número da bateria (inteiro), número de equipes (no máximo 10), o número da equipe vencedora e a lista de equipes.  Para as equipes, crie uma classe com os seguintes atributos: número da equipe, nome ou marca da equipe, o nome do piloto e a classificação depois da corrida (posição de chegada - valor inteiro). Note que do ponto de vista do usuário do sistema, apenas a classe das baterias é visível. A classe das equipes serve apenas para alimentar a lista de equipes na classe das baterias.
 O programa deve também declarar a interface ItBateria que será implementada pela classe de baterias. 
