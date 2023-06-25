@@ -1,20 +1,10 @@
 # exercicios-java
  Exercicios feitos para a matéria de OOP 
 
-- CorridaKart (depois de adicionar interfaces)
-
-- Tecelagem
-
-- Autopecas
-
-- Escola
-
-- Loja
-
-- Biblioteca
-
-- Estacionamento
-
-- Cartesiano
-
-- Estoque
+ - [x] Biblioteca
+ - [ ] Cartesiano
+ - [ ] CorridaKart (depois de adicionar interfaces)
+ - [ ] Escola
+ - [ ] Estacionamento
+ - [ ] ListaPecas
+ - [ ] Tecelagem
