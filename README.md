@@ -6,5 +6,5 @@
  - [ ] CorridaKart : Adicionar interfaces
  - [x] Escola
  - [x] Estacionamento
- - [ ] ListaPecas
+ - [x] ListaPecas
  - [ ] Tecelagem
