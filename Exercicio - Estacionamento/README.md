@@ -1,6 +1,5 @@
-# Prova de Programação Orientada a Objeto 
-
-# Prof. Francesco Artur Perrotti – Fatec Americana
+# Programação Orientada a Objeto 
+Prof. Francesco Artur Perrotti – Fatec Americana
 
 Um estacionamento que vende carros usados deseja informatizar seu sistema de controle de carros. O estacionamento só vende carros próprios e também carros de terceiros em consignação. O seu trabalho é criar uma hierarquia de classes para fazer esse controle sem duplicação de código.
 As classes para os carros devem conter as seguintes características: Para todos os carros é preciso registrar a placa, o ano de fabricação e o modelo do carro. Também é necessário um atributo que informe se o carro está disponível ou não. Os carros próprios devem ter registrado o valor de compra (quanto foi pago pelo carro) e a data da compra. Para os carros consignados o sistema deve armazenar o nome do proprietário e o valor que ele deseja receber pelo carro. Depois que o carro é vendido, seja próprio ou consignado, deve ficar marcado como vendido (não disponível) e deve ter o nome do vendedor armazenado. 
