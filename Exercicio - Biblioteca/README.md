@@ -1,5 +1,5 @@
-Prova de Programação Orientada a Objeto 
-Prof. Francesco Artur Perrotti – Fatec Americana
+# Prova de Programação Orientada a Objeto 
+# Prof. Francesco Artur Perrotti – Fatec Americana
 
 A biblioteca da faculdade quer um sistema para controlar o fluxo das publicações do seu acervo, que conta com livros técnicos, livros não técnicos e periódicos (revistas). Todas as publicações precisam ter armazenado o título e a quantidade de cópias (total e disponível). Para os livros (técnicos ou não), também é necessário armazenar o nome do autor. Desconsidere os casos de livros com vários autores. Os periódicos não têm autor, mas precisam armazenar o número do volume, já que são publicações periódicas. Os livros não técnicos podem ser consultados ou emprestados livremente, desde que existam cópias disponíveis. Os periódicos não podem ser emprestados, apenas consultados dentro da biblioteca. Os livros técnicos podem ser emprestados desde que não exista uma reserva feita por algum professor. Quando um professor considera que um livro é útil para sua disciplina ele o reserva para consulta, nesse caso o livro não pode ser emprestado, apenas consultado. 
 Crie uma hierarquia de classes para cadastrar as publicações da biblioteca evitando duplicação de código. Os métodos listados abaixo devem estar disponíveis nas classes solicitadas, mas fique a vontade para implementar quaisquer métodos adicionais que julgar necessário.
