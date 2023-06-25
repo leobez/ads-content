@@ -5,6 +5,6 @@
  - [ ] Cartesiano  : Terminar ainda
  - [ ] CorridaKart : Adicionar interfaces
  - [x] Escola
- - [ ] Estacionamento
+ - [x] Estacionamento
  - [ ] ListaPecas
  - [ ] Tecelagem
