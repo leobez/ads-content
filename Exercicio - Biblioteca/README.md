@@ -7,7 +7,7 @@ Crie uma hierarquia de classes para cadastrar as publicações da biblioteca evi
 Para todas as publicações: 
 - public void imprimir( ): Imprime todos os dados da publicação, incluindo o número total de cópias e o número de cópias disponíveis.
   
-- public boolean disponível( ): retorna true se existem cópias disponíveis ou false se não existem.
+- public boolean disponível( ): Retorna true se existem cópias disponíveis ou false se não existem.
   
 - public boolean consultar( ): Retira uma cópia para consulta e retorna true se deu tudo certo. Este método decrementa o número de cópias disponíveis. Se não existirem cópias disponíveis este método deve retornar false e não realizar a consulta.
   
