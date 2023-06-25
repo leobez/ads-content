@@ -1,6 +1,6 @@
-# Prova de Programação Orientada a Objeto 
+# Programação Orientada a Objeto 
 
-# Prof. Francesco Artur Perrotti – Fatec Americana
+Prof. Francesco Artur Perrotti – Fatec Americana
 
 Uma loja de autopeças quer implementar um controle de estoque de peças e o seu trabalho é fazer esse novo sistema. Para isso você precisa criar uma classe para as peças que registre os seguintes dados: código (inteiro), descrição (string), quantidade em estoque (inteiro) e peso (double). Para a classe das peças, faça métodos que permitam que outra classe leia e altere os atributos das peças sem que seja necessário acesso direto aos atributos (o acesso deve ser através dos métodos implementados). Além da classe para as peças, é preciso também fazer uma classe para armazenar a lista de peças que a loja vende. A quantidade máxima de peças na lista será informada via parâmetro no construtor da classe. Esta classe deve implementar pelo menos os métodos abaixo, mas fique à vontade para acrescentar outros métodos que achar úteis. 
 
