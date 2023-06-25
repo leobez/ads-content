@@ -12,8 +12,8 @@ Os seguintes métodos devem estar disponíveis:
 - public boolean oferta(double valor): Retorna true se o valor ofertado para o carro é aceitável. Um valor é aceitável se for pelo menos 10% maior que o preço de compra para os carros próprios ou 5% maior que o valor desejado pelo proprietário para os carros consignados.
 
 - public boolean venderCarro(String vendedor, double valorVenda): Vende o carro. O carro passa a ser marcado como vendido (não disponível) e o nome do vendedor é armazenado. Retorna false (e não faz nada) se:
-1) O valor de venda não é aceitável. 
-2) O carro já tinha sido vendido antes.
+  1) O valor de venda não é aceitável. 
+  2) O carro já tinha sido vendido antes.
 
 Para testar a hierarquia criada, crie instâncias dos carros no método main da aplicação e use todos os métodos implementados.  
 
