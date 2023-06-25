@@ -7,4 +7,4 @@
  - [x] Escola
  - [x] Estacionamento
  - [x] ListaPecas
- - [ ] Tecelagem
+ - [x] Tecelagem
