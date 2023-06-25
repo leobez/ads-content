@@ -1,6 +1,6 @@
-# Prova de Programação Orientada a Objeto
+# Programação Orientada a Objeto
 
-# Prof. Francesco Artur Perrotti – Fatec Americana
+Prof. Francesco Artur Perrotti – Fatec Americana
 
 Uma tecelagem tem 3 categorias de funcionários: os da administração, os da produção e os vendedores. Os funcionários da administração têm salário fixo. Os da produção são horistas, recebem por hora trabalhada e trabalham em turnos onde parte das horas são diurnas e parte são noturnas. Já os vendedores recebem um valor fixo mais comissão sobre as vendas. Para todos eles, a tecelagem precisa ter registrado o nome, RG e salário base. No caso dos funcionários administrativos o salário base é o salário bruto do funcionário. Para os funcionários da produção, o salário base é o valor por hora que eles recebem e para os vendedores é a parte fixa do salário. 
 
