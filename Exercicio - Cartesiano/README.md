@@ -1,4 +1,4 @@
-# Exercicio pode ser encontrado (AQUI)[https://pooperrotti.fandom.com/pt-br/wiki/Exerc%C3%ADcios_e_exemplos]
+# Exercicio pode ser encontrado [AQUI](https://pooperrotti.fandom.com/pt-br/wiki/Exerc%C3%ADcios_e_exemplos)
 
 Classe Ponto (Projeto Cartesiano): Crie um novo projeto chamado Cartesiano e implemente nele a classe Ponto. Esta classe representa um ponto no plano cartesiano. Tem como atributos as coordenadas X e Y do ponto (double).
 Mantenha os atributos protegidos e implemente getters e setters para acesso aos atributos.
