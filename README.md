@@ -2,7 +2,7 @@
  Exercicios feitos para a matéria de OOP 
 
  - [x] Biblioteca
- - [ ] Cartesiano  : Terminar poligono
+ - [x] Cartesiano
  - [ ] CorridaKart : Adicionar interfaces
  - [x] Escola
  - [x] Estacionamento
