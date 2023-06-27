@@ -98,6 +98,54 @@ public class Cartesiano {
 
         // POLIGONO
         System.out.println("TESTES DA CLASSE: POLIGONO");
+        
+        Poligono poligono_1 = new Poligono();
+        Ponto ponto_1_poligono_1 = new Ponto(0, 0);
+        Ponto ponto_2_poligono_1 = new Ponto(1, 0);
+        Ponto ponto_3_poligono_1 = new Ponto(1, 1);
+        Ponto ponto_4_poligono_1 = new Ponto(0, 1);
+        poligono_1.addVertex(ponto_1_poligono_1);
+        poligono_1.addVertex(ponto_2_poligono_1);
+        poligono_1.addVertex(ponto_3_poligono_1);
+        poligono_1.addVertex(ponto_4_poligono_1);
+        
+        Poligono poligono_2 = new Poligono();
+        Ponto ponto_1_poligono_2 = new Ponto(10, 1);
+        Ponto ponto_2_poligono_2 = new Ponto(2, 5);
+        Ponto ponto_3_poligono_2 = new Ponto(7, 10);
+        Ponto ponto_4_poligono_2 = new Ponto(2, 4); 
+        poligono_2.addVertex(ponto_1_poligono_2);
+        poligono_2.addVertex(ponto_2_poligono_2);
+        poligono_2.addVertex(ponto_3_poligono_2);
+        poligono_2.addVertex(ponto_4_poligono_2);
+        
+        System.out.println("poligono_1 -> ponto_1_poligono_1 existe?: " + poligono_1.ptExist(ponto_1_poligono_1));
+        System.out.println("poligono_1 -> ponto_2_poligono_1 existe?: " + poligono_1.ptExist(ponto_2_poligono_1));
+        System.out.println("poligono_1 -> ponto_3_poligono_1 existe?: " + poligono_1.ptExist(ponto_3_poligono_1));
+        System.out.println("poligono_1 -> ponto_4_poligono_1 existe?: " + poligono_1.ptExist(ponto_4_poligono_1));
+        
+        System.out.println("poligono_1 -> isValid?: " + poligono_1.isValid());
+        System.out.println("poligono_2 -> isValid?: " + poligono_2.isValid());
+
+        System.out.println("poligono_1 -> perimetro: " + poligono_1.perimeter());
+        System.out.println("poligono_2 -> perimetro: " + poligono_2.perimeter());
+
+        System.out.println("poligono_1 -> centroide: " + poligono_1.geoCenter().toString());
+        System.out.println("poligono_2 -> centroide: " + poligono_2.geoCenter().toString());
+
+        System.out.println("poligono_1 -> distancia entre centroides do poligono_1 e poligono_2: " + poligono_1.distance(poligono_2));
+
+        poligono_1.print("poligono_1 -> vertices");
+        poligono_2.print("poligono_2 -> vertices");
+        
+        poligono_1.desloc(5, 5);
+        System.out.println("\npoligono_1 -> deslocado em (5,5) ");
+        poligono_1.print();
+        
+        poligono_1.escale(3);
+        System.out.println("\npoligono_1 -> escalonado em 3 ");
+        poligono_1.print();
+
         System.out.println();
 
     }
