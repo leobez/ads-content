@@ -3,7 +3,7 @@
 
  - [x] Biblioteca
  - [x] Cartesiano
- - [ ] CorridaKart : Adicionar interfaces
+ - [x] CorridaKart
  - [x] Escola
  - [x] Estacionamento
  - [x] ListaPecas
