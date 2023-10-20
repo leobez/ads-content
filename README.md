@@ -8,7 +8,7 @@ Recebe uma função objetiva e suas restrições. A partir disso encontra a solu
 - Restrições são apenas "<=" (menor ou igual).
 - Variáveis restritas ao primeiro quadrante, ou seja, são apenas positivas. 
 
-Para usar você: 
+Para usar, você: 
   - Informa quantas variáveis as funções possuem. 
   - Montar a função objetivo, informando o valor de cada X.
   - Informar quantas restrições esta função tem.
