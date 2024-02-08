@@ -1,4 +1,4 @@
-# exercicios-java
+# Exercicios OOP
  Exercicios feitos para a matéria de OOP 
 
  - [x] Biblioteca
