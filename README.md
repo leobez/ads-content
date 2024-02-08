@@ -1,4 +1,4 @@
-# Site de medidas de dispersão
+# Medidas de dispersão
 
 Este é um projeto feito para a FATEC de americana (2º semestre), na matéria de estatística aplicada sobre o tema: medidas de dispersão.
 
