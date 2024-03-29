@@ -33,7 +33,7 @@ function App() {
 
                     </BrowserRouter>
                     
-                    <footer className='h-20 border border-black grid place-items-center'>
+                    <footer className='h-20 text-zinc-100 font-bold bg-zinc-800 grid place-items-center'>
                         <Footer/>
                     </footer>
             

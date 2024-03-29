@@ -47,14 +47,14 @@ const Connection = () => {
     }
 
     return (
-        <div className='grid'>
+        <div className='grid gap-1'>
 
             <div className='grid gap-1'>
 
                 {/* CONNECT FORM */}
                 <form onSubmit={handleConnect} className='grid bg-zinc-100 gap-1'>
 
-                    <div className='text-xl text-zinc-100 bg-zinc-800 text-center font-bold py-5 px-3 rounded-lg'>
+                    <div className='text-lg text-zinc-100 bg-zinc-800 text-center font-bold py-5 px-3 rounded-lg'>
                         <p>
                             Connect to an MQTT broker
                         </p>
@@ -63,7 +63,7 @@ const Connection = () => {
                     <div className='grid grid-rows-2 py-5 px-3 bg-zinc-800 rounded-lg text-zinc-100'>
                         <label 
                         htmlFor="conString" 
-                        className='text-lg font-bold'>
+                        className='text-base font-bold'>
                             Enter the broker URL:
                         </label>
 
@@ -77,13 +77,13 @@ const Connection = () => {
                         
                     </div>
 
-                    <div className='py-5 px-3 grid gap-1 bg-zinc-600 border-2 rounded-lg border-zinc-800'>
-                        <p className='text-lg text-zinc-100 font-bold'>Example of broker URLs:</p>
+                    <div className='py-5 px-3 grid gap-1 bg-zinc-700 border-[3px] rounded-lg border-zinc-800'>
+                        <p className='text-base text-zinc-100 font-bold'>Example of broker URLs:</p>
                         <ul className='grid gap-1'>
-                            <li className='item-list text-slate-900' onClick={fillConnect}>
+                            <li className='item-list text-zinc-800' onClick={fillConnect}>
                                 ws://broker.hivemq.com:8884/mqtt
                             </li>
-                            <li className='item-list text-slate-900' onClick={fillConnect}>
+                            <li className='item-list text-zinc-800' onClick={fillConnect}>
                                 ws://test.mosquitto.org:8081
                             </li>
                         </ul>
@@ -117,7 +117,7 @@ const Connection = () => {
             </div>
 
             {/* STATES FROM CONNECTION */}
-            <div className='grid place-items-center gap-1 px-1'>
+            <div className='grid place-items-center gap-1'>
 
                 {connectLoading && !client && 
                     <>

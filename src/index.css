@@ -21,7 +21,7 @@
     }
 
     .table-list {
-      @apply p-1 border-2 border-amber-600
+      @apply p-1 border-2 border-zinc-100 bg-zinc-800 text-zinc-100
     }
 }
 

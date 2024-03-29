@@ -33,20 +33,20 @@ const Chat = ({chosenTopic}: Props) => {
 
         <div>
 
-            <div className='h-[350px] overflow-scroll' ref={messagesRef}>
+            <div className='h-[350px] overflow-scroll bg-zinc-100' ref={messagesRef}>
                 {/* MESSAGES FROM TOPICS */}
                 <table className= 'w-full border-collapse'>
                     <tbody>
 
-                        <tr>
-                            <th className='table-list border-black'>Topic</th>
-                            <th className='table-list border-black'>Message</th>
+                        <tr className='sticky top-0'>
+                            <th className='table-list border-zinc-800'>Topic</th>
+                            <th className='table-list border-zinc-800'>Message</th>
                         </tr>
 
                         {messages && messages.map((msg:Message, index:number) => ( 
                             <tr key={index}>
-                                <td className='table-list '>{msg.topic}</td>
-                                <td className='table-list min-w-40'>{msg.message}</td>
+                                <td className='table-list border-2 border-zinc-800 bg-zinc-100 text-zinc-800'>{msg.topic}</td>
+                                <td className='table-list min-w-40 border-2 border-zinc-800 bg-zinc-100 text-zinc-800'>{msg.message}</td>
                             </tr>
                         ))}
 
@@ -56,7 +56,7 @@ const Chat = ({chosenTopic}: Props) => {
             </div>
 
             {/* FORM TO SUBMIT A MESSAGE */}
-             <form onSubmit={handleSubmit} className='p-1 grid gap-1'>
+             <form onSubmit={handleSubmit} className='p-1 grid gap-1 bg-zinc-800'>
 
                 <div>
 
@@ -65,12 +65,12 @@ const Chat = ({chosenTopic}: Props) => {
                         name='chatmessage'
                         onChange={(e) => setChatMessage(e.target.value)}
                         value={chatMessage}
-                        className='border-2 border-amber-600 text-lg p-1 text-black w-full'
+                        className='border-2 border-zinc-800 text-lg p-1 rounded-lg text-black w-full'
                     />
                 </div>
 
-                {loading && <input type="submit" value='Sending...' disabled className='menu-icon'/>}
-                {!loading && <input type="submit" value='Send' className='menu-icon'/>}
+                {loading && <input type="submit" value='Sending...' disabled className='form-button bg-zinc-100 text-zinc-800 hover:bg-zinc-800 hover:text-zinc-100'/>}
+                {!loading && <input type="submit" value='Send' className='form-button bg-zinc-100 text-zinc-800 hover:bg-zinc-800 hover:text-zinc-100'/>}
 
             </form>
             
