@@ -1,5 +1,5 @@
 // Hooks
-import { FormEvent, useContext, useState } from 'react'
+import { FormEvent, useContext, useEffect, useState } from 'react'
 import useConnectToBroker from '../../hooks/useConnectToBroker'
 
 // Context
@@ -15,6 +15,10 @@ const Connection = () => {
     // Context
     const {client} = useContext(ClientContext) as MQTTClientContextType
 
+    useEffect(() => {
+        console.log(client)
+    }, [client])
+
     // Connect hook
     const {connect, connectLoading, disconnect, disconnectLoading} = useConnectToBroker()
 
@@ -23,12 +27,16 @@ const Connection = () => {
     
     const handleConnect = (e:FormEvent<HTMLFormElement>):void => {
         e.preventDefault()
-        const tempConectionStringForTesting = 'ws://broker.hivemq.com:8000/mqtt'
+        //const tempConectionStringForTesting = 'ws://broker.hivemq.com:8000/mqtt'
+        const tempConectionStringForTesting = 'ws://test.mosquitto.org:8081'
         //connect(connectionString)
+        console.log('connecting')
         connect(tempConectionStringForTesting)
     }
 
-    const handleDisconnect = async():Promise<void> => {
+    const handleDisconnect = async(e:FormEvent<HTMLFormElement>):Promise<void> => {
+        e.preventDefault()
+        console.log('diconnecting')
         await disconnect()
     }
 
@@ -38,18 +46,18 @@ const Connection = () => {
 
     return (
         <div className='grid-cols-2'>
-            <div className='grid px-1 gap-1'>
+            <div className='grid px-1'>
 
                 {/* CONNECT FORM */}
-                <form onSubmit={handleConnect} className='grid border-x-2 border-slate-900'>
+                <form onSubmit={handleConnect} className='grid border-x-2 border-amber-600'>
 
-                    <div className='text-xl py-4 px-2 bg-slate-200 text-slate-900 text-center'>
+                    <div className='text-xl py-4 px-2 bg-amber-200 text-black text-center'>
                         <p>
                             Connect to an MQTT broker
                         </p>
                     </div>
 
-                    <div className='grid grid-rows-2 py-4 px-2 bg-slate-500 border-y-2 border-slate-900 text-slate-100'>
+                    <div className='grid grid-rows-2 py-4 px-2 bg-amber-400 border-y-2 border-amber-600 text-black'>
                         <label 
                         htmlFor="conString" 
                         className='text-lg'>
@@ -61,12 +69,12 @@ const Connection = () => {
                         name='conString'
                         onChange={(e) => setConnectionString(e.target.value)}
                         value={connectionString}
-                        className='border-2 border-black text-lg p-1 text-black'
+                        className='border-2 border-amber-600 text-lg p-1 text-black'
                         />
                         
                     </div>
 
-                    <div className='py-4 px-2 bg-slate-200'>
+                    <div className='py-4 px-2 bg-amber-200'>
                         <p className='text-lg text-slate-900'>Example of broker URLs:</p>
                         <ul className='grid gap-1'>
                             <li className='item-list text-slate-900' onClick={fillConnect}>
@@ -78,24 +86,29 @@ const Connection = () => {
                         </ul>
                     </div>
 
-                    <div className='grid grid-cols-2'>
-                        
-                        {/* CONNECT BUTTONS */}
-                        <div>
-                            {connectLoading && <FormButton value='C'></FormButton>}
-                            {disconnectLoading && <FormButton value='D'></FormButton>}
-                            {!connectLoading  && !disconnectLoading && <FormButton value='K'></FormButton>}
-                        </div>
-
-                        {/* DISCONNECT BUTTONS */}
-                        <div>
-                            {connectLoading     && <button disabled className='form-button' onClick={handleDisconnect}>Connecting...</button>}
-                            {disconnectLoading  && <button disabled className='form-button' onClick={handleDisconnect}>Disconnecting...</button>}
-                            {!connectLoading    && !disconnectLoading && <button disabled className='form-button' onClick={handleDisconnect}> Disconnect</button>}
-                        </div>
-                        
+                    <div>
+                        {/* CONNECT BUTTONS */}   
+                        {client === null &&
+                            <div>
+                                {connectLoading && <FormButton value='LC'></FormButton>}
+                                {disconnectLoading && <FormButton value='LD'></FormButton>}
+                                {!connectLoading  && !disconnectLoading && <FormButton value='C'></FormButton>}
+                            </div>
+                        }
                     </div>
 
+                </form>
+
+                {/* DISCONNECT FORM */}
+                <form onSubmit={handleDisconnect}>
+                    {/* DISCONNECT BUTTONS */}   
+                    {client !== null && 
+                        <div>
+                            {connectLoading && <FormButton value='LC'></FormButton>}
+                            {disconnectLoading && <FormButton value='LD'></FormButton>}
+                            {!connectLoading  && !disconnectLoading && <FormButton value='D'></FormButton>}
+                        </div>
+                    }
                 </form>
 
             </div>
@@ -106,6 +119,7 @@ const Connection = () => {
                 {disconnectLoading && client && <div><p>Disconnecting from server...</p></div>}
                 {client && <Client/>} 
             </div>
+            
         </div>
     )
 }
