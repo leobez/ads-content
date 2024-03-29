@@ -208,8 +208,7 @@ const Client = () => {
 
                     </div>
                     
-                    <div 
-                        className='border-2 border-amber-600 max-w-[97vw]'>
+                    <div className='border-2 border-amber-600 max-w-[100vw] overflow-y-scroll'>
 
                         <div className='border-b-2 border-amber-600'>
                             <p className='text-center py-2 break-words'>CHAT</p>

@@ -12,7 +12,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 function App() {
 
     return (
-        <div className='grid'>
+        <div className='h-screen flex flex-col'>
             <FeedbackContextProvider>
                 <ClientContextProvider>
                     
@@ -22,11 +22,11 @@ function App() {
                             <Header/>
                         </header>
 
-                        <div className='bg-white'>
+                        <div className='h-15 bg-white'>
                             <Navbar/>
                         </div>
 
-                        <main className=''>
+                        <main className='flex-1 overflow-y-auto'>
                             <Routes>
                                 <Route path='*' element={<Page404/>}></Route>
                                 <Route path='/' element={<Connection/>}></Route>

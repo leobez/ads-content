@@ -80,28 +80,30 @@ const Chat = ({chosenTopic}: Props) => {
 
     return (
 
-        <>
+        <div className='max-h-[300px]'>
 
-            {/* MESSAGES FROM TOPICS */}
-            <table className='max-w-full w-[300px] border-collapse'>
-                <tbody>
+            <div className='overflow-x-scroll'>
+                {/* MESSAGES FROM TOPICS */}
+                <table className= 'w-full border-collapse'>
+                    <tbody>
 
-                    <tr>
-                        <th className='table-list border-black'>Topic</th>
-                        <th className='table-list border-black'>Message</th>
-                    </tr>
-
-                    {messages && messages.map((msg:Message, index:number) => ( 
-                        <tr key={index}>
-                            <td className='table-list max-w-20 overflow-hidden'>{msg.topic}</td>
-                            <td className='table-list max-w-28 overflow-scroll'>{msg.message}</td>
+                        <tr>
+                            <th className='table-list border-black'>Topic</th>
+                            <th className='table-list border-black'>Message</th>
                         </tr>
-                    ))}
 
-                </tbody>
+                        {messages && messages.map((msg:Message, index:number) => ( 
+                            <tr key={index}>
+                                <td className='table-list '>{msg.topic}</td>
+                                <td className='table-list min-w-40'>{msg.message}</td>
+                            </tr>
+                        ))}
 
-            </table>
-            
+                    </tbody>
+
+                </table>
+            </div>
+
             {/* FORM TO SUBMIT A MESSAGE */}
              <form onSubmit={handleSubmit} className='p-1 grid gap-1'>
 
@@ -121,7 +123,7 @@ const Chat = ({chosenTopic}: Props) => {
 
             </form>
             
-        </>
+        </div>
     )
 }
 
