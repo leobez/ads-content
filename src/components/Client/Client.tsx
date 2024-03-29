@@ -1,5 +1,4 @@
-import { FormEvent, useContext, useState } from 'react'
-import styles from './Client.module.css'
+import { FormEvent, useContext, useEffect, useState } from 'react'
 import useSubscribeToTopic from '../../hooks/useSubscribeToTopic'
 import Chat from '../Chat/Chat'
 import ClientContext from '../../context/ClientContext'
@@ -12,6 +11,9 @@ const Client = () => {
 
     // Client context
     const {client, topics, updateMessage} = useContext(ClientContext) as MQTTClientContextType
+    useEffect(() => {
+        console.log('topics: ', topics)
+    }, [topics])
 
     // Sub hook
     const {subscribe, subLoading, unsubscribe, unsubLoading} = useSubscribeToTopic()
@@ -19,6 +21,9 @@ const Client = () => {
     // Component states
     const [topic, setTopic] = useState<string>('')
     const [chosenTopic, setChosenTopic] = useState<string>('')
+    useEffect(() => {
+        console.log('chosenTopic: ', chosenTopic)
+    }, [chosenTopic])
 
     const handleSubscribe = async(e:FormEvent<HTMLFormElement>):Promise<void> => {
         e.preventDefault()
@@ -39,34 +44,34 @@ const Client = () => {
     const handleSelect = (e:any):void => {
         e.preventDefault()
         
-        const selectedTopic = e.target.id
-    
-        // Verify if there are no other topics selected
+        const selectedId:string = e.target.id
+        const selectedTopic:string = selectedId.replace('select_', '') 
+
         if (chosenTopic === '') {
             setChosenTopic(selectedTopic)
-            e.target.classList.add(`${styles['selected']}`)
-            updateMessage(`Current topic: '${selectedTopic}' .`, 'addSystem')
+            e.target.classList.add('bg-amber-600')
+            updateMessage(`Current topic.`,`${selectedTopic}`, 'addSystem')
         } else {
-            // Verify if clicked the same
             if (chosenTopic === selectedTopic) {
-                e.target.classList.remove(`${styles['selected']}`)
+                e.target.classList.remove(`bg-amber-600`)
                 setChosenTopic('')
-                updateMessage(`Current topic: <none>`, 'addSystem')
+                updateMessage(`No topic.`, '', 'addSystem')
             } else {
-                // Is clicking other, therefore, unselect previous one and select current one
-                const DIV_previous = document.querySelector(`form#${chosenTopic}`)
-                DIV_previous?.classList.remove(`${styles['selected']}`)
-                e.target.classList.add(`${styles['selected']}`)
+                /* UNSELECT PREVIOUS */
+                document.querySelector(`form#select_${chosenTopic}`)?.classList.remove(`bg-amber-600`)
+
+                /* SELECT CURRENT */
+                e.target.classList.add(`bg-amber-600`)
                 setChosenTopic(selectedTopic)
-                updateMessage(`Current topic: '${selectedTopic}' .`, 'addSystem')
+                updateMessage('Current topic.', `${selectedTopic}`, 'addSystem')
+
             }
         }
-
     }
 
     return (
 
-        <div className='w-full'>
+        <div className='w-full grid gap-1 relative'>
 
             {client && client.options &&
                 <>
@@ -168,7 +173,7 @@ const Client = () => {
                                             </td>
                                             
                                             <td className='table-list'>
-                                                <form onSubmit={handleSelect} id={topic}>                                              
+                                                <form onSubmit={handleSelect} id={`select_`+topic}>                                          
                                                     <input 
                                                     type="submit" 
                                                     value='use' 
@@ -202,11 +207,17 @@ const Client = () => {
                         </div>
 
                     </div>
-
-                    {/* <div className={styles.chatcontainer}>
-                        <Chat chosenTopic={chosenTopic}/>
-                    </div> */}
                     
+                    <div 
+                        className='border-2 border-amber-600 max-w-[97vw]'>
+
+                        <div className='border-b-2 border-amber-600'>
+                            <p className='text-center py-2 break-words'>CHAT</p>
+                        </div>
+
+                        <Chat chosenTopic={chosenTopic}/>
+
+                    </div>
                 </>
             }
             

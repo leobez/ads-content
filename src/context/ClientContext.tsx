@@ -41,12 +41,12 @@ export const ClientContextProvider = ({children}:Props) => {
         }
     }
 
-    const updateMessage = (message:string, action:string):void => {
+    const updateMessage = (message:string, topic:string, action:string):void => {
 
         if (action === 'addSystem') {
             const newMessage:Message = {
                 message: message,
-                topic: ''
+                topic: topic
             }
             setMessages((prev) => [...prev, newMessage])
         }

@@ -28,19 +28,19 @@ const usePublishToTopic = () => {
 
         if (topic.trim() === '') {
             createFeedback('Choose a topic.', 'bad')
-            updateMessage('Choose a topic.', 'addSystem')
+            updateMessage('Choose a topic.', `${topic}`, 'addSystem')
             return;
         }
 
         if (message.trim() === '') {
             createFeedback('Invalid message.', 'bad')
-            updateMessage('Invalid message.', 'addSystem')
+            updateMessage('Invalid message.', `${topic}`, 'addSystem')
             return;
         }
 
         if (!client) {
             createFeedback('Client error.', 'bad')
-            updateMessage('Client error.', 'addSystem')
+            updateMessage('Client error.', `${topic}`, 'addSystem')
             return;
         }
 

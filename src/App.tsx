@@ -22,7 +22,7 @@ function App() {
                             <Header/>
                         </header>
 
-                        <div className='sticky top-1 z-[1] bg-white'>
+                        <div className='bg-white'>
                             <Navbar/>
                         </div>
 
