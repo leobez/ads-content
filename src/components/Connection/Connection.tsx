@@ -1,6 +1,7 @@
 // Hooks
 import { FormEvent, useContext, useEffect, useState } from 'react'
 import useConnectToBroker from '../../hooks/useConnectToBroker'
+import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
 // Context
 import ClientContext from '../../context/ClientContext'
@@ -9,6 +10,7 @@ import { MQTTClientContextType } from '../../@types/mqtt'
 // Components
 import Client from '../Client/Client'
 import FormButton from './FormButton'
+import Loading from '../Loading/Loading';
 
 const Connection = () => {
 
@@ -46,18 +48,19 @@ const Connection = () => {
 
     return (
         <div className='grid-cols-2'>
-            <div className='grid px-1'>
+
+            <div className='grid px-1 '>
 
                 {/* CONNECT FORM */}
                 <form onSubmit={handleConnect} className='grid border-x-2 border-amber-600'>
 
-                    <div className='text-xl py-4 px-2 bg-amber-200 text-black text-center'>
+                    <div className='text-xl py-4 px-2 border-2  text-black text-center'>
                         <p>
                             Connect to an MQTT broker
                         </p>
                     </div>
 
-                    <div className='grid grid-rows-2 py-4 px-2 bg-amber-400 border-y-2 border-amber-600 text-black'>
+                    <div className='grid grid-rows-2 py-4 px-2 border-y-2 border-amber-600 text-black'>
                         <label 
                         htmlFor="conString" 
                         className='text-lg'>
@@ -74,7 +77,7 @@ const Connection = () => {
                         
                     </div>
 
-                    <div className='py-4 px-2 bg-amber-200'>
+                    <div className='py-4 px-2 border-2 grid gap-1'>
                         <p className='text-lg text-slate-900'>Example of broker URLs:</p>
                         <ul className='grid gap-1'>
                             <li className='item-list text-slate-900' onClick={fillConnect}>
@@ -114,12 +117,24 @@ const Connection = () => {
             </div>
 
             {/* STATES FROM CONNECTION */}
-            <div>
-                {connectLoading && !client && <div><p>Connecting to server...</p></div>}
-                {disconnectLoading && client && <div><p>Disconnecting from server...</p></div>}
+            <div className='grid place-items-center gap-1 px-1'>
+
+                {connectLoading && !client && 
+                    <>
+                       <Loading message='Connecting...'/>
+                    </>
+                }
+
+                {disconnectLoading && client && 
+                    <>
+                        <Loading message='Disconnecting...'/>
+                    </>
+                }
+
                 {client && <Client/>} 
+
             </div>
-            
+
         </div>
     )
 }

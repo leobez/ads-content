@@ -4,6 +4,7 @@ import useSubscribeToTopic from '../../hooks/useSubscribeToTopic'
 import Chat from '../Chat/Chat'
 import ClientContext from '../../context/ClientContext'
 import { MQTTClientContextType } from '../../@types/mqtt'
+import Loading from '../Loading/Loading'
 
 // STYLES ARES USED DYNAMICALLY
 
@@ -65,77 +66,109 @@ const Client = () => {
 
     return (
 
-        <div className={styles.client}>
+        <div className='w-full'>
 
             {client && client.options &&
                 <>
-                    <div className={styles.topicscontainer}>
+                    <div className='border-2 p-1 mt-1 grid gap-1 border-amber-600 bg-amber-400'>
 
-                        <div className={styles.topicsform}>
-                            <h2>Current user: {client.options.clientId}</h2>
+                        <div className='bg-white p-1 border-2 grid grid-rows-2 gap-2'>
 
-                            <h2>Current server: {client.options.host}</h2>
+                            <table className='border-2 border-black border-collapse w-full'>
+                                <tr>
+                                    <th className='table-list border-black'>User</th>
+                                    <th className='table-list border-black'>Server</th>
+                                </tr>
+                                <tr>
+                                    <td className='table-list text-sm'>
+                                        {client.options.clientId}
+                                    </td>
+                                    <td className='table-list text-sm'>
+                                        {client.options.host}
+                                    </td>
+                                </tr>
+                            </table>
 
-                            <form onSubmit={handleSubscribe} className={styles.form}>
+                            <form onSubmit={handleSubscribe} className='grid gap-1'>
 
-                                <p>Enter the topic you want to subscribe: </p>
-
-                                <div>
-                                    <label htmlFor="topic"></label>
+                                <div className='grid gap-1'>
+                                    <label htmlFor="topic">Enter the topic you want to subscribe: </label>
                                     <input 
                                         type="text"
                                         name='topic'
                                         onChange={(e) => setTopic(e.target.value)}
                                         value={topic}
+                                        className='border-2 border-amber-600 text-lg p-1 text-black w-full'
                                     />
                                 </div>
 
-                                {subLoading && <input type="submit" value='Subscribing to topic...' disabled/>}
-                                {unsubLoading && <input type="submit" value='Unsubscribing from topic...' disabled/>}
-                                {!subLoading && !unsubLoading && <input type="submit" value='Subscribe to topic'/>}
+                                {subLoading && <input type="submit" value='Subscribing to topic...' disabled className='form-button mt-1'/>}
+                                {unsubLoading && <input type="submit" value='Unsubscribing from topic...' disabled className='form-button mt-1'/>}
+                                {!subLoading && !unsubLoading && <input type="submit" value='Subscribe to topic' className='form-button mt-1'/>}
 
                             </form>
 
                         </div>
 
-                        <div className={styles.verticalseparator_flex}></div>
+                        <div className='bg-white border-2 '>
 
-                        <div className={styles.subscribedtopicscontainer}>
+                            <table className='border-2 border-black border-collapse w-full table-fixed'>
+                                <tr>
+                                    <th className='table-list border-black'>Topic</th>
+                                    <th className='table-list border-black'>Unsub</th>
+                                    <th className='table-list border-black'>Use</th>
+                                </tr>
 
-                            {topics.length > 0 && 
-                                <>
-                                    <div className={styles.subscribed_topics}>
-                                        <h2>Subscribed topics:</h2>
-                                        {topics && topics.map((topic) => (
-                                            <div key={topic} className={styles.topics}>
+                                {topics && topics.map((topic) => (
+                                    <tr key={topic}>
 
-                                                <p className={styles.scrollable_container}>{topic}</p>
+                                        <td className='table-list text-sm whitespace-nowrap overflow-hidden text-ellipsis'>
+                                            {topic}
+                                        </td>
 
-                                                <form onSubmit={handleSelect} id={topic}>                                              
-                                                    <input type="submit" value='use'/>                 
-                                                </form>
-                                                <form onSubmit={handleUnsubscribe} id={topic}>
-                                                    <input type="submit" value='unsub'/>       
-                                                </form>
+                                        <td className='table-list'>
+                                            <form onSubmit={handleUnsubscribe} id={topic}>
+                                                <input type="submit" value='unsub' className='menu-icon'/>       
+                                            </form>
+                                            
+                                        </td>
+                                        
+                                        <td className='table-list'>
+                                            <form onSubmit={handleSelect} id={topic}>                                              
+                                                <input type="submit" value='use' className='menu-icon'/>                 
+                                            </form>
+                                        </td>
 
-                                            </div>
-                                        ))}
-                                    </div>
-                                </>
-                            }
+                                    </tr>
+                                ))}
 
-                            <div className={styles.loadingcontainer}>
-                                {subLoading && <div><p>Subscribing to topic...</p></div>}
-                                {unsubLoading && <div><p>Unsubscribing from topic...</p></div>}
+                            </table>
+
+
+                            <div className='grid place-items-center gap-1 px-1'>
+
+                                {subLoading && 
+                                    <>
+                                        <Loading message='Subscribing...'/>
+                                    </>
+                                }
+
+                                {unsubLoading && 
+                                    <>
+                                        <Loading message='Unsubscribing...'/>
+                                    </>
+                                }
+
                             </div>
 
                         </div>
 
                     </div>
 
-                    <div className={styles.chatcontainer}>
+                    {/* <div className={styles.chatcontainer}>
                         <Chat chosenTopic={chosenTopic}/>
-                    </div>
+                    </div> */}
+                    
                 </>
             }
             
