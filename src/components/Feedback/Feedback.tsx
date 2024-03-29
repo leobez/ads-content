@@ -1,5 +1,4 @@
 import { useContext, useEffect, useRef } from 'react'
-import styles from './Feedback.module.css'
 import { FeedbackContext } from '../../context/FeedbackContext'
 import { FeedbackType } from '../../@types/feedback'
 
@@ -12,7 +11,7 @@ const Feedback = () => {
     const feedbackRef:any = useRef()        
 
     const add_element = (PARENT:HTMLElement, CHILD:HTMLElement):void => {
-        CHILD.classList.add(`${styles['fade-in']}`)
+        CHILD.classList.add('fade-in')
         PARENT.appendChild(CHILD)
 
         setTimeout(function () {
@@ -21,7 +20,7 @@ const Feedback = () => {
     }
 
     const remove_element = (PARENT:HTMLElement, CHILD:HTMLElement):void => {
-        CHILD.classList.add(`${styles['fade-out']}`)
+        CHILD.classList.add('fade-out')
 
         CHILD.addEventListener("animationend", function () {
             PARENT.removeChild(CHILD)
@@ -43,8 +42,8 @@ const Feedback = () => {
 
         // Div that contains the feedback message
         const DIV_feedback:HTMLElement = document.createElement('div')
-        DIV_feedback.classList.add(`${styles['feedback']}`)
-        DIV_feedback.classList.add(`${styles[status]}`)
+        DIV_feedback.classList.add('feedback')
+        DIV_feedback.classList.add(`${status}`)
 
         // Text and h1 components of the div
         const TEXT_content:any = document.createTextNode(`${message}`)
@@ -57,7 +56,7 @@ const Feedback = () => {
     }, [feedback])
         
     return ( 
-        <div className={styles.feedbackscreen} ref={feedbackRef}>
+        <div className='feedbackscreen' ref={feedbackRef}>
         </div>
     )
 }

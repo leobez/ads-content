@@ -71,7 +71,7 @@ const Client = () => {
 
     return (
 
-        <div className='w-full grid gap-1 mt-1'>
+        <div className='w-full grid gap-1 mt-1 sm:mt-0'>
 
             {client && client.options &&
                 <>
@@ -86,10 +86,10 @@ const Client = () => {
                                         <th className='table-list bg-zinc-100 border-zinc-600 text-zinc-800'>Server</th>
                                     </tr>
                                     <tr className='h-1'>
-                                        <td className='table-list text-sm bg-zinc-100 border-zinc-800 text-zinc-800'>
+                                        <td className='table-list text-sm bg-zinc-100 border-zinc-800 text-zinc-800 text-center sm:text-base'>
                                             {client.options.clientId}
                                         </td>
-                                        <td className='table-list text-sm bg-zinc-100 border-zinc-800 text-zinc-800'>
+                                        <td className='table-list text-sm bg-zinc-100 border-zinc-800 text-zinc-800 text-center sm:text-base'>
                                             {client.options.host}
                                         </td>
                                     </tr>
@@ -159,7 +159,7 @@ const Client = () => {
                                     {topics && topics.map((topic) => (
                                         <tr key={topic}>
 
-                                            <td className='table-list text-sm whitespace-nowrap overflow-hidden text-ellipsis bg-zinc-100 border-zinc-600 text-zinc-800'>
+                                            <td className='table-list text-sm whitespace-nowrap overflow-hidden text-ellipsis bg-zinc-100 border-zinc-600 text-zinc-800 xl:text-base'>
                                                 {topic}
                                             </td>
 

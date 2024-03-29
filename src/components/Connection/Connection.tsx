@@ -1,7 +1,6 @@
 // Hooks
 import { FormEvent, useContext, useEffect, useState } from 'react'
 import useConnectToBroker from '../../hooks/useConnectToBroker'
-import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
 // Context
 import ClientContext from '../../context/ClientContext'
@@ -47,12 +46,12 @@ const Connection = () => {
     }
 
     return (
-        <div className='grid gap-1'>
+        <div className='grid gap-1 sm:grid-cols-2'>
 
-            <div className='grid gap-1'>
+            <div className='grid gap-1 sm:flex sm:flex-col sm:gap-0'>
 
                 {/* CONNECT FORM */}
-                <form onSubmit={handleConnect} className='grid bg-zinc-100 gap-1'>
+                <form onSubmit={handleConnect} className='grid bg-zinc-100 gap-1 sm:max-h-[400px]'>
 
                     <div className='text-lg text-zinc-100 bg-zinc-800 text-center font-bold py-5 px-3 rounded-lg'>
                         <p>
@@ -103,7 +102,7 @@ const Connection = () => {
                 </form>
 
                 {/* DISCONNECT FORM */}
-                <form onSubmit={handleDisconnect}>
+                <form onSubmit={handleDisconnect} className='s'>
                     {/* DISCONNECT BUTTONS */}   
                     {client !== null && 
                         <div>
