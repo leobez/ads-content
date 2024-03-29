@@ -47,23 +47,23 @@ const Connection = () => {
     }
 
     return (
-        <div className='grid-cols-2'>
+        <div className='grid'>
 
-            <div className='grid px-1 '>
+            <div className='grid gap-1'>
 
                 {/* CONNECT FORM */}
-                <form onSubmit={handleConnect} className='grid border-x-2 border-amber-600'>
+                <form onSubmit={handleConnect} className='grid bg-zinc-100 gap-1'>
 
-                    <div className='text-xl py-4 px-2 border-2  text-black text-center'>
+                    <div className='text-xl text-zinc-100 bg-zinc-800 text-center font-bold py-5 px-3 rounded-lg'>
                         <p>
                             Connect to an MQTT broker
                         </p>
                     </div>
 
-                    <div className='grid grid-rows-2 py-4 px-2 border-y-2 border-amber-600 text-black'>
+                    <div className='grid grid-rows-2 py-5 px-3 bg-zinc-800 rounded-lg text-zinc-100'>
                         <label 
                         htmlFor="conString" 
-                        className='text-lg'>
+                        className='text-lg font-bold'>
                             Enter the broker URL:
                         </label>
 
@@ -72,13 +72,13 @@ const Connection = () => {
                         name='conString'
                         onChange={(e) => setConnectionString(e.target.value)}
                         value={connectionString}
-                        className='border-2 border-amber-600 text-lg p-1 text-black'
+                        className='text-base p-1 text-black bg-zinc-100 rounded-lg'
                         />
                         
                     </div>
 
-                    <div className='py-4 px-2 border-2 grid gap-1'>
-                        <p className='text-lg text-slate-900'>Example of broker URLs:</p>
+                    <div className='py-5 px-3 grid gap-1 bg-zinc-600 border-2 rounded-lg border-zinc-800'>
+                        <p className='text-lg text-zinc-100 font-bold'>Example of broker URLs:</p>
                         <ul className='grid gap-1'>
                             <li className='item-list text-slate-900' onClick={fillConnect}>
                                 ws://broker.hivemq.com:8884/mqtt

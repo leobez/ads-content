@@ -18,15 +18,12 @@ function App() {
                     
                     <BrowserRouter basename='/chat-mqtt'>
 
-                        <header className='h-20 grid place-items-center'>
+                        <header className='h-20 flex justify-between items-center p-2 bg-zinc-800 text-zinc-100 font-bold'>
                             <Header/>
+                            <Navbar/>
                         </header>
 
-                        <div className='h-15 bg-white'>
-                            <Navbar/>
-                        </div>
-
-                        <main className='flex-1 overflow-y-auto'>
+                        <main className='flex-1 overflow-y-auto max-w-5xl p-1'>
                             <Routes>
                                 <Route path='*' element={<Page404/>}></Route>
                                 <Route path='/' element={<Connection/>}></Route>

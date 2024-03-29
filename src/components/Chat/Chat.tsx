@@ -14,12 +14,12 @@ const Chat = ({chosenTopic}: Props) => {
     const {loading, publish} = usePublishToTopic()
 
     // Component stuff
-/*     const messagesRef:any = useRef()
+    const messagesRef:any = useRef()
 
     // Scroll message into view
     useEffect(() => {
         messagesRef.current.scrollTop = messagesRef.current.scrollHeight;
-      }, [messages]);  */
+      }, [messages]);  
 
     const [chatMessage, setChatMessage] = useState<string>('')
 
@@ -29,60 +29,11 @@ const Chat = ({chosenTopic}: Props) => {
         setChatMessage('')
     } 
 
-    /* 
-    
-<div ref={messagesRef} className='p-2 max-h-96 overflow-y-scroll w-full'>
-                {messages && messages.map((msg:Message, index:number) => (
-                    <div key={index} className='w-full whitespace-break-spaces break-words'>
-                        {msg.topic === '' ? (
-                            <div>
-                                <p className='text-red-600'> {msg.message} </p>
-                            </div>
-                        ) : (
-                            <div className='flex'>
-                                <p className='text-amber-600 whitespace-nowrap overflow-hidden text-ellipsis w-36'>{msg.topic}</p>
-                                :
-                                <p className='w-36'> {msg.message}</p>
-                            </div>
-                        )}
-                    </div>
-                ))}
-            </div>
-
-             <table className='max-w-full w-[300px] border-collapse'>
-                <tbody>
-
-                    <tr>
-                        <th className='table-list border-black'>Topic</th>
-                        <th className='table-list border-black'>Message</th>
-                    </tr>
-
-                    {messages && messages.map((msg:Message, index:number) => ( 
-                        <tr key={index}>
-                            <td className='table-list max-w-20 overflow-hidden'>{msg.topic}</td>
-                            <td className='table-list max-w-28 overflow-scroll'>{msg.message}</td>
-                        </tr>
-                    ))}
-
-                </tbody>
-
-            </table>
-
-            <div ref={messagesRef} className=''>
-                {messages && messages.map((msg:Message, index:number) => (
-                    <div key={index} className='border-b-2 border-amber-600 p-2 h-12'>
-                        <p className='whitespace-nowrap overflow-hidden text-ellipsis'>{msg.topic}</p>
-                        <p className='text-nowrap overflow-scroll'> {msg.message}</p>
-                    </div>
-                ))}
-            </div>
-    */
-
     return (
 
-        <div className='max-h-[300px]'>
+        <div>
 
-            <div className='overflow-x-scroll'>
+            <div className='h-[350px] overflow-scroll' ref={messagesRef}>
                 {/* MESSAGES FROM TOPICS */}
                 <table className= 'w-full border-collapse'>
                     <tbody>

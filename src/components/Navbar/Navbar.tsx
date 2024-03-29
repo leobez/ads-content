@@ -3,7 +3,7 @@ import CNavLink from './CNavLink'
 const Navbar = () => {
     return (
         <nav>
-            <ul className='flex justify-center px-1'>
+            <ul className='flex justify-center px-1 gap-1 font-bold'>
 
                 <li className='menu-icon'>
                     <CNavLink path='/' text='Application'/>
