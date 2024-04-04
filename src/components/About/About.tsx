@@ -1,20 +1,17 @@
-import styles from './About.module.css'
 import img from '../../assets/mqtt-example.png'
 
 const About = () => {
     return (
-        <div className={styles.about}>
+        <div className='grid gap-2'>
             
-            <div className={styles.imagecontainer}>
-                <img src={img} alt="mqtt-example" />
+            <div className='grid place-items-center'>
+                <img src={img} alt="mqtt-example" className='border-2 border-zinc-800'/>
                 <h2>
-                    <a href="https://nitin-sharma.medium.com/getting-started-with-mqtt-part-1-a3c365e3a488" target='_blank'>Font</a>
+                    <a href="https://nitin-sharma.medium.com/getting-started-with-mqtt-part-1-a3c365e3a488" target='_blank'>Source</a>
                 </h2>
             </div>
 
-            <div className={styles.separator}></div>
-
-            <div className={styles.textcontainer}>
+            <div className='flex flex-col gap-1 p-2 text-justify'>
 
                 <h1>Olá,</h1>
 

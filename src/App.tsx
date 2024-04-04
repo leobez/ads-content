@@ -13,31 +13,30 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 function App() {
 
     return (
-        <div className="App">
+        <div className='h-screen flex flex-col'>
             <FeedbackContextProvider>
                 <ClientContextProvider>
-
+                    
                     <Feedback/>
 
-                    <header>
-                        <Header/>
-                    </header>
+                    <BrowserRouter basename='/chat-mqtt'>
 
-                    <main>
-                        <BrowserRouter basename='/chat-mqtt'>
-
+                        <header className='h-20 flex justify-between items-center p-2 bg-zinc-800 text-zinc-100 font-bold'>
+                            <Header/>
                             <Navbar/>
+                        </header>
 
+                        <main className='flex-1 overflow-y-auto p-1 xl:w-[1280px] xl:m-auto xl:bg-zinc-100 xl:border-x-2 xl:border-zinc-800 xl:p-4'>
                             <Routes>
                                 <Route path='*' element={<Page404/>}></Route>
                                 <Route path='/' element={<Connection/>}></Route>
                                 <Route path='/about' element={<About/>}></Route>
                             </Routes>
+                        </main>
 
-                        </BrowserRouter>
-                    </main>
-
-                    <footer>
+                    </BrowserRouter>
+                    
+                    <footer className='h-20 text-zinc-100 font-bold bg-zinc-800 grid place-items-center'>
                         <Footer/>
                     </footer>
             

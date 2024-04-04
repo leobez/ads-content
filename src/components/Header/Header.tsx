@@ -1,14 +1,10 @@
-import styles from './Header.module.css'
+import { Link } from "react-router-dom"
 
 const Header = () => {
     return (
-        <div className={styles.header}>
-
-            <h1>
-                <a href="/chat-mqtt">CHAT MQTT</a>
-            </h1>
-            
-        </div>
+        <>
+            <Link to="/">CHAT MQTT</Link>
+        </>
     )
 }
 

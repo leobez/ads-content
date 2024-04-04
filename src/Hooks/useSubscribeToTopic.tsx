@@ -29,19 +29,19 @@ const useSubscribeToTopic = () => {
 
         if (topics.includes(topic)) {
             createFeedback(`Already subscribed to topic.`, 'bad')
-            updateMessage(`Already subscribed to topic.`, 'addSystem')
+            updateMessage(`Already subscribed to topic.`, `${topic}`, 'addSystem')
             return;
         }
 
         if (topic.trim() === '') {
             createFeedback('Invalid topic.', 'bad')
-            updateMessage('Invalid topic.', 'addSystem')
+            updateMessage('Invalid topic.', `${topic}`, 'addSystem')
             return;
         }
 
         if (!client) {
             createFeedback('Client error.', 'bad')
-            updateMessage('Client error.', 'addSystem')
+            updateMessage('Client error.', `${topic}`, 'addSystem')
             return;
         }
 
@@ -49,7 +49,7 @@ const useSubscribeToTopic = () => {
             setSubLoading(true)
             await client.subscribeAsync(topic)
             setSubLoading(false)
-            updateMessage(`Subscribed to topic '${topic}' .`, 'addSystem')
+            updateMessage(`Subscribed to topic.`, `${topic}`, 'addSystem')
             updateTopics(topic, 'add')
         } catch (error) {
             setSubLoading(false)
@@ -63,19 +63,19 @@ const useSubscribeToTopic = () => {
 
         if (!topics.includes(topic)) {
             createFeedback('Topic not subscribed.', 'bad')
-            updateMessage('Topic not subscribed.', 'addSystem')
+            updateMessage('Topic not subscribed.', `${topic}`, 'addSystem')
             return;
         }
 
         if (topic.trim() === '') {
             createFeedback('Invalid topic.', 'bad')
-            updateMessage('Invalid topic.', 'addSystem')
+            updateMessage('Invalid topic.', `${topic}`,'addSystem')
             return;
         }
 
         if (!client) {
             createFeedback('Client error.', 'bad')
-            updateMessage('Client error.', 'addSystem')
+            updateMessage('Client error.', `${topic}`, 'addSystem')
             return;
         }
 
@@ -83,7 +83,7 @@ const useSubscribeToTopic = () => {
             setUnsubLoading(true)
             await client.unsubscribeAsync(topic)
             setUnsubLoading(false)
-            updateMessage(`Unsubscribed from topic '${topic}' .`, 'addSystem')
+            updateMessage(`Unsubscribed from topic.`, `${topic}`, 'addSystem')
             updateTopics(topic, 'remove')
         } catch (error) {
             setUnsubLoading(false)

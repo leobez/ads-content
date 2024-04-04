@@ -1,8 +1,5 @@
-// Style
-import styles from './Connection.module.css'
-
 // Hooks
-import { FormEvent, useContext, useState } from 'react'
+import { FormEvent, useContext, useEffect, useState } from 'react'
 import useConnectToBroker from '../../hooks/useConnectToBroker'
 
 // Context
@@ -11,11 +8,17 @@ import { MQTTClientContextType } from '../../@types/mqtt'
 
 // Components
 import Client from '../Client/Client'
+import FormButton from './FormButton'
+import Loading from '../Loading/Loading';
 
 const Connection = () => {
 
     // Context
     const {client} = useContext(ClientContext) as MQTTClientContextType
+
+    useEffect(() => {
+        console.log(client)
+    }, [client])
 
     // Connect hook
     const {connect, connectLoading, disconnect, disconnectLoading} = useConnectToBroker()
@@ -26,67 +29,109 @@ const Connection = () => {
     const handleConnect = (e:FormEvent<HTMLFormElement>):void => {
         e.preventDefault()
         //const tempConectionStringForTesting = 'ws://broker.hivemq.com:8000/mqtt'
-        connect(connectionString)
-        //connect(tempConectionStringForTesting)
+        const tempConectionStringForTesting = 'ws://test.mosquitto.org:8081'
+        //connect(connectionString)
+        console.log('connecting')
+        connect(tempConectionStringForTesting)
     }
 
     const handleDisconnect = async(e:FormEvent<HTMLFormElement>):Promise<void> => {
         e.preventDefault()
+        console.log('diconnecting')
         await disconnect()
     }
 
-    return (
-        <div className={styles.connectioncontainer}>
+    const fillConnect = (e:any):void => {
+        setConnectionString(e.target.innerText)
+    }
 
-            <div className={styles.connection}>
+    return (
+        <div className='grid gap-1 sm:grid-cols-2'>
+
+            <div className='grid gap-1 sm:flex sm:flex-col sm:gap-0'>
 
                 {/* CONNECT FORM */}
-                <form onSubmit={handleConnect} className={styles.form}>
+                <form onSubmit={handleConnect} className='grid bg-zinc-100 gap-1 sm:max-h-[400px]'>
 
-                <div>
-                    <h1>
-                        Connect to an MQTT broker:
-                    </h1>
-                </div>
+                    <div className='text-lg text-zinc-100 bg-zinc-800 text-center font-bold py-5 px-3 rounded-lg'>
+                        <p>
+                            Connect to an MQTT broker
+                        </p>
+                    </div>
 
-                <div>
-                    <label htmlFor="conString">Enter the broker URL:</label>
-                    <input 
-                    type="text" 
-                    name='conString'
-                    onChange={(e) => setConnectionString(e.target.value)}
-                    value={connectionString}
-                    />
-                </div>
+                    <div className='grid grid-rows-2 py-5 px-3 bg-zinc-800 rounded-lg text-zinc-100'>
+                        <label 
+                        htmlFor="conString" 
+                        className='text-base font-bold'>
+                            Enter the broker URL:
+                        </label>
 
-                <div className={styles.examples}>
-                    <h2>Example of broker URLs:</h2>
-                    <ul>
-                        <li>ws://broker.hivemq.com:8884/mqtt</li>
-                        <li>ws://test.mosquitto.org:8081</li>
-                    </ul>
-                </div>
+                        <input 
+                        type="text" 
+                        name='conString'
+                        onChange={(e) => setConnectionString(e.target.value)}
+                        value={connectionString}
+                        className='text-base p-1 text-black bg-zinc-100 rounded-lg'
+                        />
+                        
+                    </div>
 
-                {connectLoading     && <input type='submit' value='Connecting...' disabled/>}
-                {disconnectLoading  && <input type='submit' value='Disconnecting...' disabled/>}
-                {!connectLoading    && !disconnectLoading && <input type='submit' value='Connect'/>}
+                    <div className='py-5 px-3 grid gap-1 bg-zinc-700 border-[3px] rounded-lg border-zinc-800'>
+                        <p className='text-base text-zinc-100 font-bold'>Example of broker URLs:</p>
+                        <ul className='grid gap-1'>
+                            <li className='item-list text-zinc-800' onClick={fillConnect}>
+                                ws://broker.hivemq.com:8884/mqtt
+                            </li>
+                            <li className='item-list text-zinc-800' onClick={fillConnect}>
+                                ws://test.mosquitto.org:8081
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        {/* CONNECT BUTTONS */}   
+                        {client === null &&
+                            <div>
+                                {connectLoading && <FormButton value='LC'></FormButton>}
+                                {disconnectLoading && <FormButton value='LD'></FormButton>}
+                                {!connectLoading  && !disconnectLoading && <FormButton value='C'></FormButton>}
+                            </div>
+                        }
+                    </div>
 
                 </form>
-                
+
                 {/* DISCONNECT FORM */}
-                <form onSubmit={handleDisconnect}>
-                    {connectLoading     && <input type='submit' value='Connecting...' disabled/>}
-                    {disconnectLoading  && <input type='submit' value='Disconnecting...' disabled/>}
-                    {!connectLoading    && !disconnectLoading && <input type='submit' value='Disconnect'/>}
+                <form onSubmit={handleDisconnect} className='s'>
+                    {/* DISCONNECT BUTTONS */}   
+                    {client !== null && 
+                        <div>
+                            {connectLoading && <FormButton value='LC'></FormButton>}
+                            {disconnectLoading && <FormButton value='LD'></FormButton>}
+                            {!connectLoading  && !disconnectLoading && <FormButton value='D'></FormButton>}
+                        </div>
+                    }
                 </form>
 
             </div>
 
             {/* STATES FROM CONNECTION */}
-            <div className={styles.clientcontainer}>
-                {connectLoading && !client && <div className={styles.serverloading}><p>Connecting to server...</p></div>}
-                {disconnectLoading && client && <div className={styles.serverloading}><p>Disconnecting from server...</p></div>}
+            <div className='grid place-items-center gap-1'>
+
+                {connectLoading && !client && 
+                    <>
+                       <Loading message='Connecting...'/>
+                    </>
+                }
+
+                {disconnectLoading && client && 
+                    <>
+                        <Loading message='Disconnecting...'/>
+                    </>
+                }
+
                 {client && <Client/>} 
+
             </div>
 
         </div>
