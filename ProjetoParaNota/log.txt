@@ -1,0 +1,10 @@
+07/07/2022 17:52:32 - Erro de sintaxe na instrução INSERT INTO.
+   em AppDatabase.OleDBTransaction.Query(String querySql) na C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\ADS\C#\Material de Aulas\Aula Base\LIB\Source\AppDatabase 4.0\AppDatabase\AppDatabase.cs:linha 114
+   em ProjetoParaNota.Usuarios.Salvar_Click(Object sender, EventArgs e) na C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\Admin\Usuarios.aspx.cs:linha 109
+Microsoft Access Database Engine
+
+07/07/2022 17:52:58 - Erro de sintaxe na instrução INSERT INTO.
+   em AppDatabase.OleDBTransaction.Query(String querySql) na C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\ADS\C#\Material de Aulas\Aula Base\LIB\Source\AppDatabase 4.0\AppDatabase\AppDatabase.cs:linha 114
+   em ProjetoParaNota.Usuarios.Salvar_Click(Object sender, EventArgs e) na C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\Admin\Usuarios.aspx.cs:linha 109
+Microsoft Access Database Engine
+

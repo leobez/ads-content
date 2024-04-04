@@ -1,0 +1,766 @@
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csprojAssemblyReference.cache
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Fatec\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+E:\FATEC\Aulas - Semestre 2\LP ll\WEB\Projetos\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csprojAssemblyReference.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver0\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver1\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver3\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csprojAssemblyReference.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver4\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csprojAssemblyReference.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\MySql.Data.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver6\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\MySql.Data.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver9\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\MySql.Data.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.pdb
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csprojAssemblyReference.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\0040482121003\Downloads\Versões Projeto LP ll\ver7\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\MySql.Data.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.pdb
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll.config
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ProjetoParaNota.pdb
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.exe.config
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csc.rsp
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.exe.config
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\csi.rsp
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.AppContext.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Console.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Compression.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Claims.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.ValueTuple.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.exe.config
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\vbc.rsp
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\MySql.Data.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.pdb
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\ADS2022M.xml
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.pdb
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\AppDatabase.xml
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.AssemblyReference.cache
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CoreCompileInputs.cache
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.csproj.CopyComplete
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.dll
+C:\Users\leosb\Downloads\Fatec\Sem 2\Versões Projeto LP ll\ver10\ProjetoParaNota\ProjetoParaNota\obj\Debug\ProjetoParaNota.pdb

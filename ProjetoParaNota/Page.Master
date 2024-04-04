@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="ProjetoParaNota.Page" %>
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Language" content="pt-br">
+
+    <title></title>
+
+    <link href="Projeto.css" rel="stylesheet" />
+
+    <script defer src="../javascript/script-header.js" lang="pt-br"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <header class="content-wrapper">
+        
+            <div class="logo-titulo">
+
+                <div class="logo">
+                    <a href="Default.aspx" runat="server">
+                        <img src="Imagens/logo.png" runat="server"/>
+                    </a>
+                </div>  
+                
+
+                <div class="titulo">
+                    <a href="Default.aspx" runat="server">
+                        <p>Análise e desenvolvimento</p>
+                        <p>de sistemas</p>
+                    </a>
+                </div>
+            </div>
+
+            <nav class="menuPrincipal">
+                <asp:HyperLink ID="LinkHome" runat="server" NavigateUrl="~/Default.aspx" CssClass="linkMenu">Home</asp:HyperLink>
+                <asp:HyperLink ID="LinkSobre" runat="server" NavigateUrl="~/Sobre.aspx" CssClass="linkMenu">Sobre</asp:HyperLink>
+                <asp:HyperLink ID="LinkPlano" runat="server" NavigateUrl="~/Plano.aspx" CssClass="linkMenu">Plano</asp:HyperLink>
+                <asp:HyperLink ID="LinkInstitu" runat="server" NavigateUrl="~/Institucional.aspx" CssClass="linkMenu">Institucional</asp:HyperLink>
+                <asp:HyperLink ID="LinkLogin" runat="server" NavigateUrl="~/Login.aspx" CssClass="LinkLogin linkMenu">Login</asp:HyperLink>     
+                
+                <div class="inner-nav" runat="server" id="InnerNav">
+                    <asp:HyperLink ID="LinkUsuarios" runat="server" NavigateUrl="~/Admin/Usuarios.aspx" CssClass="LinkLoginOnly" >Usuarios</asp:HyperLink>
+                    <asp:HyperLink ID="LinkExcecoes" runat="server" NavigateUrl="~/Admin/ExibirExcecoes.aspx" CssClass="LinkLoginOnly">Exceções</asp:HyperLink>      
+                    <asp:HyperLink ID="LinkLogout" runat="server" NavigateUrl="~/Logout.aspx" CssClass="LinkSair">Sair</asp:HyperLink>
+                </div>
+            </nav>
+
+            <button type="button" class="button-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+        </header>
+
+        <div class="space-fill"></div>
+
+        <main class="content-wrapper">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </main>
+
+        <footer>
+            <div class="footer-area content-wrapper">
+
+                <div class="nomes">
+                    <h1>Site desenvolvido por</h1>
+                    <p>Leonardo de Souza Bezerra</p>
+                    <p>Bruno Anhezini de Souza</p>
+                    <p>Alison Henrique Lemos dos Santos</p>
+
+                </div>                
+                
+                <div class="contatos">
+                    <h1>Contatos</h1>
+                    <p>leosbezerra@outlook.com</p>
+                    <p>bruno.anhezini@gmail.com</p>
+                    <p>alisonsantos186@outlook.com</p>
+                </div>
+
+                <div class="logo-footer">
+                    <div class="logo">
+                        <a href="Default.aspx" runat="server">
+                            <img src="Imagens/logo.png" runat="server"/>
+                        </a>
+                    </div>  
+                </div>
+
+            </div>
+        </footer>
+
+    </form>
+</body>
+</html>
