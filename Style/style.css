@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+/*
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+*/
+
+:root {
+    --alturaHeader: 110px;
+    --alturaFooter: 110px;
+    --alturaMain: calc(100vh - var(--alturaFooter) - var(--alturaHeader));
+
+    --cor01: #0875D8;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+}
+
+.content-wrapper {
+    margin: 0 auto;
+    max-width: 1400px;
+    min-width: 300px;
+}
+
+/********************************** 
+            CABEÇALHO 
+**********************************/
+
+header {
+    height: var(--alturaHeader);
+    border: 2px solid black;
+    border-top: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px;
+}
+
+header > p {
+	text-align: center;
+}
+
+
+/********************************** 
+               MAIN 
+**********************************/
+
+main {
+    min-height: var(--alturaMain);
+    display: flex;
+    /*box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.475);*/
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+	border-bottom: 2px solid black;
+    z-index: 1;
+}
+
+main > section {
+    flex-basis: 50%;
+    padding: 10px;
+}
+
+/* Entrada de dados */
+.content-calculo {
+    border-right: 2px solid black;
+    color: black;
+    z-index: 2;
+    background-color: white;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.content-calculo-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.content-calculo-top > button {
+    padding: 2px 8px;
+    font-size: 18px;
+    background-color: transparent;
+    border: 3px solid black;
+}
+
+.content-calculo-top > button:hover {
+    transition: 0.3s;
+    color: #0082fb;
+    border-color: #0082fb;
+    cursor: pointer;
+}
+
+.content-calculo > p {
+    margin-bottom: 30px;
+}
+
+.area-como-usar {
+    min-height: 350px;
+    max-height: fit-content;
+    width: 100%;
+    border: 3px solid black;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px 10px;
+    animation-name: SlideLeft;
+    animation-duration: 0.5s;
+}
+
+.area-como-usar > p {
+    font-size: 18px;
+}
+
+.dados {
+    width: 100%;
+    height: 350px;
+    padding: 5px;
+    margin-top: 30px;
+    resize: none;
+    font-family: 'Open Sans', sans-serif;
+    text-indent: 2px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.button-area {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.button-area > button {
+    flex-basis: 30%;
+}
+
+.button-area button {
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 3px solid black;
+}
+
+.button-area button:hover {
+    transition: 0.3s;
+    background-color: rgb(20, 20, 20);
+    cursor: pointer;
+}
+
+p#aviso {
+	text-align: center;
+}
+
+.calcular:hover {
+    color: rgb(0, 255, 0);
+    border-color: rgb(0, 255, 0);
+}
+
+.apagar:hover {
+    color: red;
+    border-color: red;
+}
+
+p#aviso {
+	margin: 0;
+}
+
+/* Saída de dados */
+.content-resultado {
+    height: 690px;
+    overflow: hidden;
+}
+
+.usable-area {
+    height: 100%;
+    width: 100%;
+
+    overflow-y: scroll;
+    position: relative;
+
+    /*Esconder a scrollbar caso queira usa-la*/
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.usable-area::-webkit-scrollbar {
+    /*Esconder a scrollbar caso queira usa-la*/
+    display: none;  /* Safari and Chrome */
+}
+
+.content-resultado .usable-area > div {
+    height: fit-content;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px;
+    animation-timing-function: ease-in-out;
+    animation-name: SlideLeft;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 2;
+}
+
+.content-resultado > div p {
+    font-size: 22px;
+}
+
+.content-resultado > div .btn-extra {
+    background-color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    width: fit-content;
+}
+
+.content-resultado > div .btn-extra:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    letter-spacing: 5px;
+}
+
+.container-extra {
+    min-height: 100%;
+    max-height: fit-content;
+    width: 100%;
+    border: 2px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    animation-name: SlideLeft;
+    animation-duration: 0.5s;
+}
+
+.container-extra > h1 {
+    font-size: 26px;
+}
+
+.container-extra > p {
+    font-weight: 100;
+    font-size: 20px !important;
+    text-align: justify;
+}
+
+.container-extra > img {
+    height: 90px;
+    width: 200px;
+}
+
+@keyframes SlowAppear {
+    0% {
+        transform: translateY(100%);
+    } 100% {
+        transform: translateY(0%);
+    }
+}
+
+@keyframes SlideLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0%;
+    } to {
+        transform: translateX(0);
+        opacity: 100%;
+    }
+    
+}
+
+/*PONTO DE QUEBRA MAIN: 800px*/
+@media screen and (max-width: 900px) {
+    
+    main {
+        flex-direction: column;
+    }
+
+    main .content-calculo {
+        border: none;
+        padding-bottom: 0;
+    }
+
+    
+    main .content-resultado {
+        border: none;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+}
+
+/*PONTO DE QUEBRA BOTÃO "como usar": 460px*/
+@media screen and (max-width: 470px) {
+    .content-calculo-top > button {
+        height: 78px;
+        width: 121px;
+    }
+}
+
+
+/********************************** 
+              RODAPÉ 
+**********************************/
+
+footer {
+    height: var(--alturaFooter);
+    width: 100%;
+}
+
+.footer-area {
+    width: 100%;
+    height: 100%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0px 20px;
+}
+
+.footer-area > p {
+	text-align: center;
+}
