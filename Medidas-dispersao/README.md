@@ -10,8 +10,4 @@ Este site possui o objetivo de calcular as seguintes medidas de dispersão:
   - Desvio padrão amostral
   - Coeficiente de variação
  
-
- Atualmente sendo hospedado através do github pages: [aqui](https://leobez.github.io/medidas-dispersao/)
- 
-
- 
+ Atualmente sendo hospedado através na vercel: https://medidas-dispersao.vercel.app/
