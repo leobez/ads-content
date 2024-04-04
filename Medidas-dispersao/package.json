@@ -1,0 +1,13 @@
+{
+  "name": "medidas-dispersao",
+  "version": "1.0.0",
+  "description": "Este é um projeto feito para a FATEC de americana (2º semestre), na matéria de estatística aplicada sobre o tema: medidas de dispersão.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vercel": "vercel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
