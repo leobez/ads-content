@@ -8,12 +8,12 @@ Projetos feitos durante a graduação em técnologo de ADS na [FATEC](https://ww
 
 ## Projetos
 
-| Projeto            | Semestre | Disciplina                               | Competências                                |
-|--------------------|----------|------------------------------------------|---------------------------------------------|
-| Site-fatec         | 2        | Linguagem de programação II              | C#, ASP.NET, Hosting, HTML, CSS, JavaScript |
-| Medidas-dispersao  | 2        | Estatística aplicada                     | HTML, CSS, JavaScript                       |
-| Simplex            | 3        | Programação linear e aplicações          | C                                           |
-| Chat-mqtt          | 3        | Sistemas operacionais II                 | HTML, CSS, TypeScript, Context API, MQTT    |
-| VM-Monitor         | 3        | Sistemas operacionais II                 | MQTT, Docker, InfluxDB, Grafana             |
-| OOP-Exercises      | 4        | Programação Orientada a objetos          | Java                                        |
-| Divulgacampo       | 5        | Laboratório de engenharia de software    | React, Firebase, noSQL                      |
+| Projeto                       | Semestre | Disciplina                                          | Competências                                           |
+|-------------------------------|----------|-----------------------------------------------------|--------------------------------------------------------|
+| <sub>Site-fatec</sub>         | 2        | <sub>Linguagem de programação II</sub>              | <sub>C#, ASP.NET, Hosting, HTML, CSS, JavaScript</sub> |
+| <sub>Medidas-dispersao</sub>  | 2        | <sub>Estatística aplicada</sub>                     | <sub>HTML, CSS, JavaScript</sub>                       |
+| <sub>Simplex</sub>            | 3        | <sub>Programação linear e aplicações</sub>          | <sub>C</sub>                                           |
+| <sub>Chat-mqtt</sub>          | 3        | <sub>Sistemas operacionais II</sub>                 | <sub>HTML, CSS, TypeScript, Context API, MQTT</sub>    |
+| <sub>VM-Monitor</sub>         | 3        | <sub>Sistemas operacionais II</sub>                 | <sub>MQTT, Docker, InfluxDB, Grafana</sub>             |
+| <sub>OOP-Exercises</sub>      | 4        | <sub>Programação Orientada a objetos</sub>          | <sub>Java</sub>                                        |
+| <sub>Divulgacampo</sub>       | 5        | <sub>Laboratório de engenharia de software</sub>    | <sub>React, Firebase, noSQL</sub>                      |
