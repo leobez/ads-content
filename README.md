@@ -1,8 +1,8 @@
-# Projetos da faculdade de ADS
+# Conteúdo da faculdade de ADS
 
-<hr>
+### Projetos, exercícios etc 
 
-Projetos feitos durante a graduação em técnologo de ADS na [FATEC](https://www.fatec.edu.br/) de americana.
+Feitos durante a graduação em técnologo de ADS na [FATEC](https://www.fatec.edu.br/) de americana.
 
 <hr>
 
