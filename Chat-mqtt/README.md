@@ -4,7 +4,7 @@ Site que disponibiliza uma interface para enviar e receber mensagens através de
 
 Feito com: React.js, TypeScript, [MQTT.js](https://github.com/mqttjs)
 
-Link para acessar o site: https://chatmqtt-leob.netlify.app
+Para acessar: https://chatmqtt-leob.netlify.app
 
 <hr>
 
