@@ -15,5 +15,6 @@ Feitos durante a graduação em técnologo de ADS na [FATEC](https://www.fatec.e
 | <sub>Simplex</sub>            | 3        | <sub>Programação linear e aplicações</sub>          | <sub>C</sub>                                           |
 | <sub>Chat-mqtt</sub>          | 3        | <sub>Sistemas operacionais II</sub>                 | <sub>HTML, CSS, TypeScript, Context API, MQTT</sub>    |
 | <sub>VM-monitor</sub>         | 3        | <sub>Sistemas operacionais II</sub>                 | <sub>MQTT, Docker, InfluxDB, Grafana, Linux, Vms</sub> |
+| <sub>Mobile projects</sub>    | 3        | <sub>Programação de dispositivos móveis</sub>       | <sub>Java, Android Studio</sub>                        |
 | <sub>OOP-Exercises</sub>      | 4        | <sub>Programação Orientada a objetos</sub>          | <sub>Java</sub>                                        |
 | <sub>Divulgacampo</sub>       | 5        | <sub>Laboratório de engenharia de software</sub>    | <sub>React, Firebase, noSQL</sub>                      |
