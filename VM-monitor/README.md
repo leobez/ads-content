@@ -42,9 +42,24 @@ O projeto consiste em algumas etapas:
 
 <hr>
 
-### Imagem do final do fluxo de dados do sistema
+### Diagrama do fluxo do sistema
 
-INSERIR IMAGEM
+Diagrama feito com [LucidChart](https://www.lucidchart.com/pages/?)
+
+<img src="https://github.com/leobez/ads-content/blob/main/VM-monitor/Diagram%20-%20VM%20monitor.png" alt="Diagrama MQTT" style="border: 2px solid black; width: 100%;"></img>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
