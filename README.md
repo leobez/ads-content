@@ -10,7 +10,7 @@ Feitos durante a graduação em técnologo de ADS na [FATEC](https://www.fatec.e
 
 | Nome                                                                    | Semestre | Disciplina                                          | Tecnologias                                                     |
 |-------------------------------------------------------------------------|----------|-----------------------------------------------------|-----------------------------------------------------------------|
-| <sub>Python-system</sub>                                                | 1        | <sub>Sistema de informações</sub>                   | <sub>Python</sub>                                               |
+| <sub>Python-system</sub>                                                | 1        | <sub>Sistema de informação</sub>                    | <sub>Python</sub>                                               |
 | <sub>Site-fatec</sub>                                                   | 2        | <sub>Linguagem de programação II</sub>              | <sub>C#, ASP.NET, Hosting, HTML, CSS, JavaScript</sub>          |
 | <sub>Medidas-dispersao</sub>                                            | 2        | <sub>Estatística aplicada</sub>                     | <sub>HTML, CSS, JavaScript</sub>                                |
 | <sub>Simplex</sub>                                                      | 3        | <sub>Programação linear e aplicações</sub>          | <sub>C</sub>                                                    |
