@@ -1,0 +1,6 @@
+Codigo;Descricao 
+1;brinquedo
+2;comida
+3;eletronico
+4;movel
+5;teste
