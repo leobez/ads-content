@@ -1,3 +1,0 @@
-codigo_tipo;codigo_produto;descricao;valor_unitario;quantidade
-1;1-3;cubo magico;110.0;3
-3;3-5;headset;800.0;2
