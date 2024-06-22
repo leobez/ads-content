@@ -20,3 +20,4 @@ Feitos durante a graduação em técnologo de ADS na [FATEC](https://www.fatec.e
 | <sub>Mobile-projects</sub>                                              | 3        | <sub>Programação de dispositivos móveis</sub>       | <sub>Java, Android Studio</sub>                                 |
 | <sub>OOP-exercises</sub>                                                | 4        | <sub>Programação Orientada a objetos</sub>          | <sub>Java</sub>                                                 |
 | <sub>[Divulgacampo](https://github.com/leobez/divulgacampo)</sub>       | 5        | <sub>Laboratório de engenharia de software</sub>    | <sub>React, Firebase, Context API, noSQL</sub>                  |
+| <sub>[seo-comparison](https://github.com/leobez/seo-comparison)</sub>   | 6        | <sub>Trabalho de graduação</sub>                    | <sub>React, Next, Web Vitals, SSR, CSR, SEO</sub>               |
