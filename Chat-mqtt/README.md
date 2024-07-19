@@ -6,6 +6,8 @@ Feito com: React.js, TypeScript, [MQTT.js](https://github.com/mqttjs)
 
 Para acessar: https://chatmqtt-leob.netlify.app
 
+<img src="https://github.com/leobez/ads-content/blob/main/Chat-mqtt/screenshots/main.png" height="500px"/>
+
 <hr>
 
 Métodos do módulo MQTT.js usados.
