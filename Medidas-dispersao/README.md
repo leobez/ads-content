@@ -12,4 +12,4 @@ Este site possui o objetivo de calcular as seguintes medidas de dispersão:
   - Desvio padrão amostral
   - Coeficiente de variação
  
- Para acessar: https://medidasdispersao-leob.netlify.app/
+ Para acessar: https://medidasdispersaoleob.vercel.app/
