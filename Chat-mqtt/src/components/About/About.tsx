@@ -1,19 +1,9 @@
 import styles from './About.module.css'
-import img from '../../assets/mqtt-example.png'
 
 const About = () => {
     return (
         <div className={styles.about}>
             
-            <div className={styles.imagecontainer}>
-                <img src={img} alt="mqtt-example" />
-                <h2>
-                    <a href="https://nitin-sharma.medium.com/getting-started-with-mqtt-part-1-a3c365e3a488" target='_blank'>Font</a>
-                </h2>
-            </div>
-
-            <div className={styles.separator}></div>
-
             <div className={styles.textcontainer}>
 
                 <h1>Olá,</h1>
