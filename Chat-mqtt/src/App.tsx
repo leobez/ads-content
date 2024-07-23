@@ -8,7 +8,7 @@ import Header from './components/Header/Header'
 import Navbar from './components/Navbar/Navbar'
 import { ClientContextProvider } from './context/ClientContext'
 import { FeedbackContextProvider } from './context/FeedbackContext'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 
 function App() {
 
@@ -29,6 +29,7 @@ function App() {
                             <Navbar/>
 
                             <Routes>
+                                <Route path='/ProjectsIndex/dist/chatmqtt/dist/index.html' element={<Navigate to="/"/>}></Route>
                                 <Route path='*' element={<Page404/>}></Route>
                                 <Route path='/' element={<Connection/>}></Route>
                                 <Route path='/about' element={<About/>}></Route>
