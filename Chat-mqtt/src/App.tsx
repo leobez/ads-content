@@ -29,7 +29,7 @@ function App() {
                             <Navbar/>
 
                             <Routes>
-                                <Route path='/ProjectsIndex/dist/chatmqtt/dist/index.html' element={<Navigate to="/"/>}></Route>
+                                <Route path='/ads-content/chatmqtt/dist/index.html' element={<Navigate to="/"/>}></Route>
                                 <Route path='*' element={<Page404/>}></Route>
                                 <Route path='/' element={<Connection/>}></Route>
                                 <Route path='/about' element={<About/>}></Route>
