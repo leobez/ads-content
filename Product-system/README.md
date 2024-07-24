@@ -8,7 +8,8 @@ Executado através do arquivo main
 
 `> python ./main.py`
 
-Neste sisteminha simples em terminal é possível realizar 
+Recursos do sistema:
+
 - CRUD em tipos
   - Informações salvas em `TipoProduto.txt`
     
